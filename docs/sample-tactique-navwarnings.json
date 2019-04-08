@@ -1,0 +1,2161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -127.688834,
+                    70.558,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROARC 112/12 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  CANADA-NORTH COAST.\nBEAUFORT SEA.\nCHART 15940\nBOTTOM SCIENTIFIC MOORING EXTENDING 3.5 METERS\nABOVE SEA FLOOR ESTABLISHED IN\n70-33.48N 127-41.33W AT DEPTH 40 METERS.// Authority: NAVAREA XVII 68/12 052319Z AUG 12.Date: 中文  “加拿大 - 北海岸。\nBEAUFORT SEA。\n图15940\n底部科学停泊延长3.5米\n在海上建立的海底\n70-33.48N 127-41.33W，深度40米//权限：NAVAREA XVII 68/12 052319Z 8月12日日期：“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.038334,
+                    36.801667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 861/16 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN MEDITERRANEAN SEA.\nTUNISIA-NORTHEAST COAST.\nNAVTEX.\n1. NAVTEX STATION KELIBIA 36-48.1N 011-02.3E OFF AIR.\n2. CANCEL HYDROLANT 9/15//Authority: NAVAREA III 210/16 111201Z APR 16.Date: 111210Z APR 16中文  “西地中海海洋。\n突尼斯 - 东北海岸。\nNAVTEX。\n1. NAVTEX STATION KELIBIA 36-48.1N 011-02.3E OFF AIR。\n2. CANCEL HYDROLANT 9/15 //权限：NAVAREA III 210/16 111201Z APR 16.日期：111210Z APR 16“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.411667,
+                    53.448834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 87/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  IRISH SEA.\nWALES-NORTH COAST.\nDNC 20.\nCHART 36025.\n1. OBSTRUCTION REPORTED IN 53-26.93N 003-24.70W.\n2. CANCEL HYDROLANT 3183/16.//Authority: WZ 21/17 091300Z JAN 17.Date: 091319Z JAN 17中文  “爱尔兰海。\nWALES-NORTH COAST。\nDNC 20。\n图表36025。\n1.报告在53-26.93N 003-24.70W报告。\n2. CANCEL HYDROLANT 3183/16。权威：WZ 21/17 091300Z JAN 17.日期：091319Z JAN 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7725,
+                    2.766834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 793/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF GUINEA.\nCAMEROON.\nDNC 01.\nCHART 57160, 57170.\nVOLCANIC ACTIVITY REPORTED IN 02-46.01N 009-46.35E.//Authority: NAVAREA II 86/17 101735Z MAR 17.Date: 101737Z MAR 17中文  “几内亚海湾。\n喀麦隆。\nDNC 01。\nCHART 57160,57170。\n火山活动报告于02-46.01N 009-46.35E。//权威人士：NAVAREA II 86/17 101735Z MAR 17.日期：101737Z MAR 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.633334,
+                    52.101667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1019/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  NORTH SEA.\nENGLAND-SOUTHEAST COAST.\nDNC 20.\nCHART 37140.\n1. DANGEROUS WRECK, LEAST DEPTH 10 METERS,\n   IN 52-06.1N 001-38.0E.\n2. CANCEL HYDROLANT 522/17.//Authority: WZ 386/17 291200Z MAR 17.Date: 291208Z MAR 17中文  “北海。\n英格兰 - 东南沿海。\nDNC 20。\n图37140。\n1.危险的伤口，最小深度为10米，\n    IN 52-06.1N 001-38.0E。\n2. CANCEL HYDROLANT 522/17 .//当局：WZ 386/17 291200Z MAR 17.日期：291208Z MAR 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0455,
+                    60.263167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1492/17 [1 of 4]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  NORTH SEA.\nSHETLAND ISLANDS.\nDNC 20.\nCHART 35066.\n1. DEPTHS REPORTED:\n   A. 11.1 METERS IN 60-15.79N 001-02.73W.\n   B. 18.7 METERS IN 60-15.94N 001-02.50W.\n   C. 18.9 METERS IN 60-15.54N 001-02.30W.\n   D. 15.9 METERS IN 60-25.68N 000-53.99W.\n2. CANCEL HYDROLANT 1061/17.//Authority: WZ 554/17 121010Z MAY 17.Date: 121033Z MAY 17中文  “北海。\nSHETLAND ISLANDS。\nDNC 20。\n图35066。\n1.报告的深度：\n    A. 11.1米在60-15.79N 001-02.73W。\n    B. 18.7米在60-15.94N 001-02.50W。\n    C. 18.9米在60-15.54N 001-02.30W。\n    D. 15.9米在60-25.68N 000-53.99W。\n2. CANCEL HYDROLANT 1061/17。权威：WZ 554/17 121010Z MAY 17.日期：121033Z MAY 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.566667,
+                    36.983334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2259/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  AEGEAN SEA.\nDNC 09.\nAN EARTHQUAKE OCCURRED AT 202231Z JUL WITH A\nPRELIMINARY MAGNITUDE OF 6.8, IN 36-59N 27-34E.\nA TSUNAMI MAY HAVE BEEN GENERATED. TSUNAMI WAVES\nARE POSSIBLE ALONG SOME COASTS. TSUNAMI WAVE\nHEIGHTS CANNOT BE PREDICTED AND MAY BE A\nSERIES OF WAVES WHICH COULD BE DANGEROUS FOR\nSEVERAL HOURS AFTER THE INITIAL WAVE ARRIVAL.//Authority: IOTWMS 202247Z JUL 17.Date: 202313Z JUL 17中文  “爱琴海。\nDNC 09。\n发生在202231Z的地震与A的一次\n初步幅度为6.8，在36-59N 27-34E。\n海啸可能已经生成。 海啸波\n可能在某些情况下。 海啸波\n高度不能预测，可能是A.\n可能导致危险的波浪系列\n初始波浪抵达后的几个小时//权威人士：IOTWMS 202247Z JUL 17.Date：202313Z JUL 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.563334,
+                    45.321667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2467/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  KERCH STRAIT.\nDNC 10.\nCHART 55190.\nUNEXPLODED ORDNANCE IN 45-19.3N 036-33.8E.//Authority: NAVAREA III 521/17 111201Z AUG 17.Date: 111239Z AUG 17中文  “KERCH STRAIT。\nDNC 10。\n图55190。\n45-19.3N 036-33.8E的未解释的违规事项//权威人士：NAVAREA III 521/17 111201Z AUG 17.Date：111239Z AUG 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.373667,
+                    6.312167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2644/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF GUINEA.\nNIGERIA.\nDNC 01.\nCHART 57101.\n1. DANGEROUS WRECK IN VICINITY 06-18.73N 003-22.42E.\n2. CANCEL HYDROLANT 2641/17.//Authority: NAVAREA II 313/17 300631Z AUG 17.Date: 300639Z AUG 17中文  “几内亚海湾。\n尼日利亚。\nDNC 01。\n图57101。\n1.危险警告在附近06-18.73N 003-22.42E。\n2. CANCEL HYDROLANT 2641/17。权威：NAVAREA II 313/17 300631Z AUG 17.日期：300639Z AUG 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.788334,
+                    57.423334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2896/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  LITTLE MINCH.\nSCOTLAND-WEST COAST.\nDNC 19.\nCHART 35092.\n1. NESS POINT LIGHT 57-25.4N 006-47.3W RANGE\n   TEMPORARILY REDUCED TO 12 MILES.\n2. CANCEL HYDROLANT 2802/17.//Authority: NAVAREA I 131/17 181100Z SEP 17.Date: 181144Z SEP 17中文  “小小的。\n苏格兰西海岸。\nDNC 19。\n图35092。\n1. NESS POINT LIGHT 57-25.4N 006-47.3W范围\n    临时减少到12英里。\n2. CANCEL HYDROLANT 2802/17。权威：NAVAREA I 131/17 181100Z SEP 17.日期：181144Z SEP 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.76,
+                    34.496667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 3154/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN MEDITERRANEAN SEA.\nDNC 10.\nCHART 54480.\n1. JAZIRAT RAMKIN LIGHT 34-29.8N 035-45.6E UNLIT.\n2. CANCEL HYDROLANT 3143/17.//Authority: NAVAREA III 715/17 041202Z OCT 17.Date: 041320Z OCT 17中文  “地中海东部。\nDNC 10。\n图54480。\n1. JAZIRAT RAMKIN灯34-29.8N 035-45.6E UNLIT。\n2. CANCEL HYDROLANT 3143/17。权威：NAVAREA III 715/17 041202Z OCT 17.日期：041320Z OCT 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.666667,
+                    43.99,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 3948/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  BLACK SEA.\nROMANIA.\nDNC 10.\nCHART 55120.\n1. CAPUL TUZLA LIGHT 43-59.4N 028-40.0E UNLIT.\n2. CANCEL HYDROLANT 3921/17.//Authority: NAVAREA III 943/17 061706Z DEC 17.Date: 071801Z DEC 17中文  “黑海。\n罗马尼亚。\nDNC 10。\n图55120。\n1. CAPUL TUZLA LIGHT 43-59.4N 028-40.0E UNLIT。\n2. CANCEL HYDROLANT 3921/17。权威：NAVAREA III 943/17 061706Z DEC 17.日期：071801Z DEC 17“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.503334,
+                    14.723334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1456/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN NORTH ATLANTIC.\nSENEGAL.\nDNC 01.\nCHART 51480, 51560.\nCAP VERT LIGHT 14-43.4N 017-30.2W UNLIT.//Authority: NAVAREA II 204/18 091913Z MAY 18.Date: 092115Z MAY 18中文  “东北大西洋。\n塞内加尔。\nDNC 01。\n图51480,51560。\nCAP VERT LIGHT 14-43.4N 017-30.2W UNLIT.Authority：NAVAREA II 204/18 091913Z MAY 18.日期：092115Z MAY 18“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.481667,
+                    35.906667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1543/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  STRAIT OF GIBRALTAR.\nMOROCCO.\nDNC 08.\nCHART 52040.\nPUNTA CIRES LIGHT 35-54.4N 005-28.9W UNLIT.//Authority: NAVAREA III 420/18 171203Z MAY 18.Date: 171239Z MAY 18中文  “GIBRALTAR海峡。\n摩洛哥。\nDNC 08。\n图52040。\nPUNTA CIRES LIGHT 35-54.4N 005-28.9W UNLIT.Authority：NAVAREA III 420/18 171203Z MAY 18.Date：171239Z MAY 18“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.946667,
+                    0.99,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1640/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH ATLANTIC.\nBRAZIL-NORTH COAST.\nDNC 01.\nCHART 24320.\n1. BAILIQUE LIGHT 00-59.4N 049-56.8W UNLIT\n   UNTIL 24 NOV.\n2. CANCEL THIS MSG 25 NOV 18.//Authority: NAVAREA V COASTAL I 403/18 250129Z MAY 18.Date: 250841Z MAY 18Cancel: 25000000 Nov 18中文  “西北大西洋。\n巴西北部海岸。\nDNC 01。\n图表24320。\n1. BAILIQUE LIGHT 00-59.4N 049-56.8W UNLIT\n    直到11月24日。\n2.取消本MSG 25 NOV 18.//权威：NAVAREA V COASTAL I 403/18 250129Z MAY 18.日期：250841Z MAY 18Cancel：25000000 Nov 18“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.495,
+                    39.415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1680/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH ATLANTIC.\nNEW JERSEY.\nDNC 17.\nPOSSIBLE MAN OVERBOARD FROM VESSEL IN POSITION\n39-24.9N 072-29.7W.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC NORFOLK,\nPHONE: 757 398 6231,\nFAX: 757 398 6392,\nE-MAIL: D05-SMB-D5CC@USCG.MIL.//Authority: RCC NORFOLK 282252Z MAY 18.Date: 282334Z MAY 18中文  “西北大西洋。\n新泽西州。\nDNC 17。\n可能的人员从船上的船上过热\n39-24.9N 072-29.7W。\n在附近的船只要求保持锋利\n如果可能，请查看，帮助。\n向RCC NORFOLK报告，\n电话：757 398 6231，\n传真：757 398 6392，\n电子邮件：D05-SMB-D5CC@USCG.MIL.//权威人士：RCC NORFOLK 282252Z MAY 18.日期：282334Z MAY 18“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45,
+                    34.316667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1823/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN MEDITERRANEAN SEA.\nTUNISIA.\nDNC 08.\nCHART 52160.\nDANGEROUS WRECK IN 34-19N 010-27E.//Authority: NAVAREA III 485/18 081203Z JUN 18.Date: 081557Z JUN 18中文  东地中海。\n突尼斯。\nDNC 08。\n图52160。\n危险沉船在 34-19N 010-27E///权威: NAVAREA III 485/18 081203Z 骏 18.Date: 081557Z 骏18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.916667,
+                    -28.55,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1899/18 [1 of 4]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN SOUTH ATLANTIC.\nNAMIBIA.\nDNC 01.\n1. UNDERWATER OPERATIONS IN PROGRESS UNTIL\n   FURTHER NOTICE BY:\n   A. M/V MAFUTA IN 28-33.0S 015-55.0E.\n   B. M/V GARIEP IN 28-30.3S 015-51.5E.\n   C. M/V GRAND BANKS IN 28-35.9S 015-50.5E.\n   D. M/V CORAL SEA IN 28-34.9S 015-49.1E.\n   TWO MILE BERTH REQUESTED.\n2. CANCEL HYDROLANT 1742/18.//Authority: NAVAREA VII 192/18 140832Z JUN 18.Date: 141132Z JUN 18中文  南大西洋东部。\n纳米比亚。\nDNC 01。\n1. 水下作业正在进行中, 直至\n进一步通知:\n28-33.0S 015-55.0E 的 MAFUTA。\nB. Gariep 在28-30.3 秒 015-51.5 E。\n28-35.9S 015-50.5E 的大银行。\n28-34.9S 015-49.1E 的珊瑚海。\n两英里的泊位要求。\n2. 取消 HYDROLANT 1742/18.//授权: NAVAREA 七 192/18 140832Z 骏 18.Date: 141132Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.32,
+                    53.261667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 1977/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  NORTH SEA.\nENGLAND.\nDNC 20.\nCHART 37166.\nALL NAVIGATIONAL AIDS AT DUDGEON WIND FARM\nTURBINE A5, 53-15.7N 001-19.2E INOPERATIVE.//Authority: WZ 710/18 191510Z JUN 18.Date: 191603Z JUN 18中文  北海。\n英国。\nDNC 20。\n图37166。\n达吉恩风电场所有导航辅助设备\n涡轮 A5, 53-15.7N 001-19.2E 不起作用//权限: WZ 710/18 191510Z 骏 18.Date: 191603Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.683334,
+                    34.116667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2019/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN MEDITERRANEAN SEA.\nLIBYA.\nDNC 09.\n1. VESSEL, 100 PERSONS ON BOARD, REQUESTING\n   ASSISTANCE IN 34-07N 013-41E AT 212300Z JUN.\n   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP\n   LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO MRCC ROME,\n   INMARSAT-C: 424744220,\n   PHONE: 3906 5908 4527, 3906 5908 4409,\n   FAX: 390 6592 2737, 3906 5908 4793,\n   E-MAIL: ITMRCC@MIT.GOV.IT\n2. CANCEL HYDROLANT 2013/18.//Authority: MRCC ROME 220029Z JUN 18.Date: 220057Z JUN 18中文  东地中海。\n利比亚。\nDNC 09。\n1. 船上100人, 要求\n协助在 34-07N 013-41E 在212300Z 骏。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。向搜救中心罗马报告,\n海卫组织-C: 424744220,\n电话: 3906 5908 4527, 3906 5908 4409,\n传真: 390 6592 2737, 3906 5908 4793,\n电子邮件: ITMRCC@MIT.GOV.IT ITMRCC@MIT 政府\n2. 取消 HYDROLANT 2013/18.//授权: 搜救中心罗马220029Z 骏 18.Date: 220057Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.333,
+                    28.629667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2036/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF MEXICO.\nDNC 15.\n61 FOOT VESSEL MISS VIRGINIA, WHITE HULL,\nTAKING ON WATER IN 28-37.78N 086-19.98W\nAT 230135Z JUN. VESSELS IN VICINITY REQUESTED\nTO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO COMCOGARD SECTOR MOBILE,\nPHONE: 251 441 6211, E-MAIL: CGMOBILE@USCG.MIL.//Authority: COMCOGARD SECTOR MOBILE 230208Z JUN 18.Date: 230246Z JUN 18中文  墨西哥湾。\nDNC 15。\n61英尺的船只弗吉尼亚小姐, 白船体,\n在 28-37.78N 086-19.98W 上取水\n在230135Z 附近的船只要求\n要保持敏锐的警惕, 尽可能的协助。\n向 COMCOGARD 部门移动的报告,\n电话: 251 441 6211, 电邮: CGMOBILE@USCG///权威: COMCOGARD 部门移动230208Z 骏 18.Date: 230246Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.866667,
+                    20.05,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2041/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WINDWARD PASSAGE.\nCUBA.\nHAITI.\nDNC 16.\nVESSEL, BLACK HULL, TWO PERSONS ON BOARD, DISABLED\nAND ADRIFT IN VICINITY 20-03N 073-52W. VESSELS IN\nVICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC MIAMI, PHONE: 305 415 6800,\nE-MAIL: RCCMIAMI@USCG.MIL.//Authority: RCC MIAMI 231715Z JUN 18.Date: 231731Z JUN 18中文  迎风通道。\n古巴。\n海地。\nDNC 16。\n船, 黑色船体, 两人在船上, 残疾人\n在 20-03N 073-52W 附近漂流。船舶在\n附近要求保持一个尖锐的\n如果可能的话, 请帮忙。\n报告给 RCC 迈阿密电话: 305 415 6800,\n电子邮件: RCCMIAMI@USCG//权威: 碾压混凝土迈阿密231715Z 骏 18.Date: 231731Z 骏18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.898334,
+                    35.868334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2064/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH ATLANTIC.\nBERMUDA TO NEW YORK.\nDNC 16, DNC 17.\n40 FOOT S/V GLIM, BLUE HULL, FIVE PERSONS ON BOARD, UNREPORTED BERMUDA TO NEW YORK. LAST KNOWN POSITION\nIN 35-52.1N 068-53.9W.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC NORFOLK,\nPHONE: 757 398 6390,\nFAX: 757 398 6392,\nE-MAIL: RCCNORFOLK@USCG.MIL.//Authority: RCC NORFOLK 251305Z JUN 18.Date: 251404Z JUN 18中文  北大西洋西部。\n百慕大到纽约。\ndnc 16, dnc 17。\n40英尺 S/V GLIM, 蓝色船体, 五人在船上, 未报告的百慕大到纽约。上一个已知位置\n在 35-52.1N 068-53.9W。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告到碾压混凝土诺福克,\n电话: 757 398 6390,\n传真: 757 398 6392,\n电子邮件: RCCNORFOLK@USCG//权威: 碾压混凝土诺福克251305Z 骏 18.Date: 251404Z 骏18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.188667,
+                    -20.3705,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2065/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN SOUTH ATLANTIC.\nBRAZIL-SOUTHEAST COAST.\nDNC 01.\n1. UNDERWATER OPERATIONS 25 JUN THRU 15 JUL BY\n   M/V NM CAPTAIN VANGELIS L E PROBOAT\n   IN 20-22.23S 040-11.32W.\n   WIDE BERTH REQUESTED.\n2. CANCEL THIS MSG 16 JUL 18.//Authority: NAVAREA V COASTAL E 491/18 251202Z JUN 18.Date: 251422Z JUN 18Cancel: 16000000 Jul 18中文  南大西洋西部。\n巴西-东南海岸。\nDNC 01。\n1. 水下操作25骏通过 15 JUL 由\nVANGELIS 船长 proboat\n在 20-22.23S 040-11.32W。\n要求宽泊位。\n2. 取消此味精 16 JUL 18.//权限: NAVAREA V 海岸 E 491/18 251202Z 骏 18.Date: 251422Z 骏 18Cancel: 16000000 7月18日\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    36.683334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2070/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN MEDITERRANEAN SEA.\nIONIAN SEA.\nDNC 09.\nS/V MLT MSY BLU BLU, WHITE AND BLUE HULL, TWO PERSONS\nON BOARD, REQUESTING ASSISTANCE IN 36-41N 017-00E\nAT 252135Z JUN. VESSELS IN VICINITY REQUESTED TO\nKEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO MRCC ROME, INMARSAT-C: 424744220,\nPHONE: 3906 5908 4527, 3906 5908 4409,\nFAX: 390 6592 2737, 3906 5908 4793,\nE-MAIL: ITMRCC@MIT.GOV.IT.//Authority: MRCC ROME 252149Z JUN 18.Date: 252202Z JUN 18中文  东地中海。\n爱奥尼亚海。\nDNC 09。\nMLT MSY 蓝光蓝光, 白色和蓝色船体, 两人\n在船上, 请求协助在 36-41N 017-00E\n在252135Z 附近的船只要求\n保持敏锐的警惕, 尽可能的协助。\n向搜救中心罗马的报告, 国际海事组织-C: 424744220,\n电话: 3906 5908 4527, 3906 5908 4409,\n传真: 390 6592 2737, 3906 5908 4793,\n电子邮件: ITMRCC@MIT: 搜救中心罗马252149Z 骏 18.Date: 252202Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.666667,
+                    33.733334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2087/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN MEDITERRANEAN SEA.\nDNC 10.\nMAN OVERBOARD FROM VESSEL IN 33-44N 029-40E ON 27 JUN.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO JRCC PIRAEUS,\nTELEX: 601211588,\nPHONE: 3021 0411 2500, 3021 0422 0772,\nFAX: 3021 0413 2398, 3021 0411 5798.//Authority: JRCC PIRAEUS 270945Z JUN 18.Date: 271015Z JUN 18中文  东地中海。\nDNC 10。\n从船上的人船在 33-44N 029-40E 在27骏。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告 JRCC 比雷埃夫斯,\n电传: 601211588,\n电话: 3021 0411 2500, 3021 0422 0772,\n传真: 3021 0413 2398, 3021 0411 5798.//权威: JRCC 比雷埃夫斯270945Z 骏 18.Date: 271015Z 骏18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.8,
+                    21.833334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2099/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN NORTH ATLANTIC.\nWESTERN SAHARA.\nDNC 01.\nF/V SINE SALOUM, RED AND WHITE HULL, DISABLED\nAND ADRIFT IN 21-50N 017-48W ON 26 JUN. VESSELS\nIN VICINITY REQUESTED TO KEEP A SHARP LOOKOUT,\nASSIST IF POSSIBLE.\nREPORTS TO MRCC DAKAR,\nPHONE: 2213 3826 5001,\nFAX: 2213 3826 5000,\nE-MAIL: MARINENAT@ORANGE.SN.//Authority: MRCC DAKAR 281127Z JUN 18.Date: 281144Z JUN 18中文  北大西洋东部。\n西撒哈拉。\nDNC 01。\nSALOUM 正弦, 红色和白色船体, 禁用\n漂流在 21-50N 017-48W 在26钧船上\n在附近要求保持敏锐的警惕,\n如有可能, 请协助。\n报告搜救中心达喀尔,\n电话: 2213 3826 5001,\n传真: 2213 3826 5000,\n电子邮件: MARINENAT@ORANGE。SN//权威: 搜救中心达喀尔281127Z 骏 18.Date: 281144Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.701667,
+                    22.653334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2132/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF MEXICO.\nCUBA.\nDNC 15.\nMAN OVERBOARD FROM M/V NORWEGIAN GETAWAY\nIN 22-39.2N 084-42.1W AT 300935Z JUN.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC MIAMI,\nPHONE: 305 415 6800, E-MAIL: RCCMIAMI@USCG.MIL.//Authority: RCC MIAMI 302118Z JUN 18.Date: 302124Z JUN 18中文  墨西哥湾。\n古巴。\nDNC 15。\n人从 V. 挪威逃亡\n在 22-39.2N 084-42.1W 300935Z。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告给碾压混凝土迈阿密,\n电话: 305 415 6800, 电邮: RCCMIAMI@USCG///权威: 碾压混凝土迈阿密302118Z 骏 18.Date: 302124Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.700334,
+                    27.767334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2147/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH ATLANTIC.\nDNC 16.\n1. 45 FOOT S/V MISS KITTY REQUESTING ASSISTANCE\n   IN 27-46.04N 071-42.02W.\n   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP\n   LOOKOUT, ASSIST IF POSSIBLE.\n   REPORTS TO RCC MIAMI,\n   PHONE: 305 415 6800,\n   E-MAIL: RCCMIAMI@USCG.MIL.\n2. CANCEL HYDROLANT 2145/18.//Authority: RCC MIAMI 021127Z JUL 18.Date: 021139Z JUL 18中文  \n北大西洋西部。\nDNC 16。\n1. 45 英尺 S/V 凯蒂小姐请求协助\n在 27-46.04N 071-42.02W。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告给碾压混凝土迈阿密,\n电话: 305 415 6800,\n电子邮件: RCCMIAMI@USCG.MIL RCCMIAMI@USCG。\n2. 取消 HYDROLANT 2145/18.//授权: RCC 迈阿密 021127Z JUL 18.Date: 021139Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.7775,
+                    -1.208333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2153/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN SOUTH ATLANTIC.\nBRAZIL-NORTH COAST.\nDNC 01.\nCHART 24270.\n1. DANGEROUS WRECK IN 01-12.50S 044-46.65W.\n2. CANCEL HYDROLANT 2093/18.//Authority: NAVAREA V COASTAL N 518/18 022340Z JUL 18.Date: 022355Z JUL 18中文  南大西洋西部。\n巴西-北海岸。\nDNC 01。\n图24270。\n1. 01-12.50S 044-46.65W 的危险沉船。\n2. 取消 HYDROLANT 2093/18.//授权: NAVAREA V 沿海 N 518/18 022340Z JUL 18.Date: 022355Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95,
+                    33.016667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2156/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN MEDITERRANEAN SEA.\nLIBYA.\nDNC 09.\nVESSEL, 136 PERSONS ON BOARD, REQUESTING\nASSISTANCE IN 33-01N 013-57E AT 030407Z JUL.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE. REPORTS TO\nRCC LIBYA PHONE: 2182 1444 6799,\nFAX: 2182 1360 6868\nEMAIL: SAR@ANS.CAA.GOV.LY OR\nLIBYAN NAVY COAST GUARD, PHONE: 2182 1444 9488,\nFAX: 2182 1360 6868\nE-MAIL: LIBYAN.NAVAL.COMMS.CENTRE@GMAIL.COM OR\nRCC MALTA, PHONE: 356 2124 9784,\nFAX: 356 2180 9860\nE-MAIL: RCCMALTA@GOV.MT OR\nMRCC TUNIS, PHONE: 216 7156 0244,\nFAX: 216 7156 1804.\nE-MAIL: TUNISIANNAVY@DEFENCE.TN OR\nMRCC ROME, PHONE: 3906 5908 4527,\n3906 5908 4409,\nFAX: 390 6592 2737, 3906 5908 4793,\nE-MAIL: ITMRCC@MIT.GOV.IT.//Authority: MRCC ROME 030431Z JUL 18.Date: 030444Z JUL 18中文  东地中海。\n利比亚。\nDNC 09。\n船只, 船上136人, 要求\n协助在 33-01N 013-57E 030407Z JUL。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。报告, 以\n利比亚碾压混凝土电话: 2182 1444 6799,\n传真: 2182 1360 6868\n电子邮件: SAR@ANS.CAA.GOV.LY。或\n利比亚海军海岸警卫队, 电话: 2182 1444 9488,\n传真: 2182 1360 6868\n电子邮件: LIBYAN.NAVAL.COMMS.CENTRE@GMAIL.COM 利比亚. 海军通讯. CENTRE@GMAIL. COM 或\n碾压混凝土马耳他电话: 356 2124 9784,\n传真: 356 2180 9860\n电子邮件: RCCMALTA@GOV.MT RCCMALTA@GOV 或\n搜救中心突尼斯, 电话: 216 7156 0244,\n传真: 216 7156 1804。\n电子邮件: TUNISIANNAVY@DEFENCE.TN TUNISIANNAVY@DEFENCE 或\n搜救中心罗马电话: 3906 5908 4527,\n3906 5908 4409,\n传真: 390 6592 2737, 3906 5908 4793,\n电邮: ITMRCC@MIT//权威: 搜救中心罗马 030431Z JUL 18.Date: 030444Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.833334,
+                    54.316667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2159/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN NORTH ATLANTIC.\nDNC 19.\nDISTRESS SIGNAL RECEIVED FROM AIRCRAFT IN VICINITY\n54-19N 014-50W AT 031200Z JUL.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO UK COAST GUARD,\nPHONE: 4434 4382 0025,\nFAX: 4413 2924 4547,\nE-MAIL: UKMRCC@HMCG.GOV.UK.//Authority: UK COAST GUARD 031240Z JUL 18.Date: 031302Z JUL 18中文  北大西洋东部。\nDNC 19。\n附近飞机收到遇险信号\n54-19N 014-50W 031200Z JUL。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向英国海岸警卫队报告,\n电话: 4434 4382 0025,\n传真: 4413 2924 4547,\n电子邮件: UKMRCC@HMCG 英国政府//机构: 英国海岸警卫队 031240Z JUL 18.Date: 031302Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.147667,
+                    40.663,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2202/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  ADRIATIC SEA.\nALBANIA.\nDNC 09.\nCHART 54090.\nMINE IN 40-39.78N 019-08.86E.//Authority: NAVAREA III 547/18 061857Z JUL 18.Date: 061902Z JUL 18中文  亚得里亚海。\n阿尔巴尼亚。\nDNC 09。\n图54090。\n我在 40-39.78N 019-08.86E///权威: NAVAREA III 547/18 061857Z JUL 18.Date: 061902Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.336667,
+                    28.133334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2233/18 [1 of 2]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF MEXICO.\nTEXAS.\nDNC 15.\nDISTRESS SIGNAL RECEIVED ON 406 MHZ AT 091547Z JUL IN:\nA. 28-08.0N 093-20.2W.\nB. 28-17.5N 093-38.6W.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC NEW ORLEANS,\nPHONE: 504 589 6225,\nFAX: 504 589 2148,\nE-MAIL: D8COMMANDCENTER@USCG.MIL.//Authority: RCC NEW ORLEANS 091547Z JUL 18.Date: 091710Z JUL 18中文  墨西哥湾。\n德州。\nDNC 15。\n遇险信号接收在406兆赫在 091547Z JUL 在:\nA. 28-08.0 N 093-20.2 W。\nB. 28-17.5 N 093-38.6 W。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告到 RCC 新奥尔良,\n电话: 504 589 6225,\n传真: 504 589 2148,\n电子邮件: D8COMMANDCENTER@USCG//授权: RCC 新奥尔良 091547Z JUL 18.Date: 091710Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    39,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2259/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN MEDITERRANEAN SEA.\nTYRRHENIAN SEA.\nSARDINIA.\nDNC 08.\nVESSEL, 11 PERSONS ON BOARD, REQUESTING ASSISTANCE\nIN VICINITY 39-00N 009-00E. VESSELS IN VICINITY\nREQUESTED TO KEEP A SHARP LOOKOUT, ASSIST IF\nPOSSIBLE. REPORTS TO MRCC ROME,\nINMARSAT-C: 424744220, PHONE: 3906 5908 4527,\n3906 5908 4409, FAX: 390 6592 2737,\n3906 5908 4793, E-MAIL: ITMRCC@MIT.GOV.IT.//Authority: MRCC ROME 120054Z JUL 18.Date: 120118Z JUL 18中文  \n地中海西部。\n第勒尼安海海。\n撒丁岛。\nDNC 08。\n船, 船上11人, 请求协助\n附近 39-00N 009-00E。附近的船只\n要求保持敏锐的警惕, 协助如果\n可能。向搜救中心罗马报告,\n国际海事组织-C: 424744220, 电话: 3906 5908 4527,\n3906 5908 4409, 传真: 390 6592 2737,\n3906 5908 4793, 电邮: ITMRCC@MIT///权威: 搜救中心罗马 120054Z JUL 18.Date: 120118Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.066667,
+                    -45.016666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2260/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN SOUTH ATLANTIC.\nDNC 07.\n1. F/V DORNEDA SANK IN 45-01S 060-04W. ONE PERSON\n   MISSING. VESSELS IN VICINITY REQUESTED\n   TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.\n   REPORTS TO MRCC PUERTO BELGRANO,\n   INMARSAT-C: 4700100125, PHONE: 5429 3248 7150,\n   5429 3248 7162.\n2. CANCEL HYDROLANT 2252/18.//Authority: NAVAREA VI 311/18 120200Z JUL 18.Date: 120318Z JUL 18中文  南大西洋西部。\nDNC 07。\n1. DORNEDA 在 45-01S 060-04W 沉没。一人\n失踪。要求附近的船只\n要保持敏锐的警惕, 尽可能的协助。\n报告搜救中心波多黎各贝尔格拉诺,\n国际海事组织-C: 4700100125, 电话: 5429 3248 7150,\n5429 3248 7162。\n2. 取消 HYDROLANT 2252/18.//授权: NAVAREA VI 311/18 120200Z JUL 18.Date: 120318Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.866667,
+                    -1.833333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2263/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN SOUTH ATLANTIC.\nBRAZIL-NORTH COAST.\nDNC 01.\nMAN OVERBOARD FROM VESSEL IN 01-50S 042-52W ON\n12 JUL. VESSELS IN VICINITY REQUESTED TO KEEP A\nSHARP LOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO ANY COASTAL RADIO STATION.//Authority: NAVAREA V SAR 100/18 120115Z JUL 18.Date: 120808Z JUL 18中文  南大西洋西部。\n巴西-北海岸。\nDNC 01。\n从船上的人船在 01-50S 042-52W 上\n12 JUL。附近的船只要求保持\n敏锐的警惕, 尽可能的协助。\n向任何沿海广播电台报告//授权: NAVAREA V SAR 100/18 120115Z JUL 18.Date: 120808Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.816667,
+                    -58.15,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2272/18 [1 of 2]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SCOTIA SEA.\nDRAKE PASSAGE.\nDNC 01, DNC 29.\n1. ICEBERGS REPORTED IN:\n   A. C28B, 58-09S 043-49W.\n   B. 60-37S 061-02W.\n2. CANCEL THIS MSG 151433Z JUL 18.//Authority: NAVAREA VI 312/18 121410Z JUL 18.Date: 121433Z JUL 18Cancel: 15143300 Jul 18中文  新斯科舍省海。\n德雷克通道。\ndnc 01, dnc 29。\n1. 冰山报告:\nC28B, 58-09S 043-49W。\nB. 60-37S 061-02W。\n2. 取消此味精 151433Z JUL 18.//主管: NAVAREA VI 312/18 121410Z JUL 18.Date: 121433Z JUL 18Cancel: 15143300 7月18日\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.033334,
+                    -60.616666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2272/18 [2 of 2]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SCOTIA SEA.\nDRAKE PASSAGE.\nDNC 01, DNC 29.\n1. ICEBERGS REPORTED IN:\n   A. C28B, 58-09S 043-49W.\n   B. 60-37S 061-02W.\n2. CANCEL THIS MSG 151433Z JUL 18.//Authority: NAVAREA VI 312/18 121410Z JUL 18.Date: 121433Z JUL 18Cancel: 15143300 Jul 18中文  新斯科舍省海。\n德雷克通道。\ndnc 01, dnc 29。\n1. 冰山报告:\nC28B, 58-09S 043-49W。\nB. 60-37S 061-02W。\n2. 取消此味精 151433Z JUL 18.//主管: NAVAREA VI 312/18 121410Z JUL 18.Date: 121433Z JUL 18Cancel: 15143300 7月18日\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.071834,
+                    16.8235,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROLANT 2273/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN CARIBBEAN SEA.\nST. KITTS AND NEVIS.\nDNC 14.\n18 METER F/V, TWO PERSONS ON BOARD, SANK IN\n16-49.41N 063-04.31W AT 181420Z JUL.\nTWO PERSONS REMAIN MISSING, POSSIBLY IN LIFERAFT.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO MRCC FORT DE FRANCE,\nINMARSAT-C: 422799024, TELEX: 42912008,\nPHONE: 5965 9670 9292, FAX: 5965 9663 2450,\nE-MAIL: ANTILLES@MRCCFR.EU.//Authority: MRCC FORT DE FRANCE 121901Z JUL 18.Date: 121902Z JUL 18中文  东加勒比海。\n圣基茨和尼维斯。\nDNC 14。\n18米/五, 船上的两个人, 沉没在\n16-49.41N 063-04.31W 181420Z JUL。\n两个人仍然失踪, 可能在救生筏。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向法国搜救中心堡报告,\n国际海事卫星组织-C: 422799024, 电传: 42912008,\n电话: 5965 9670 9292, 传真: 5965 9663 2450,\n电子邮件: ANTILLES@MRCCFR. 欧盟///机构: 搜救中心德堡 121901Z JUL 18.Date: 121902Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.34,
+                    24.821667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1222/12 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH PACIFIC.\nNAMPO SHOTO.\nCHART 97562\nDISCOLORED WATER VICINITY 24-49.3N 141-20.4E AT 290640Z APR.//Authority: NAVAREA XI 262/12 290938Z APR 12.Date: 290948Z APR 12中文  北太平洋西部。\n南浦诸岛。\n图97562\n变色水附近 24-49.3N 141-20.4E 在 290640Z apr///主管: NAVAREA XI 262/12 290938Z apr 12.Date: 290948Z APR 12\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9,
+                    9.983334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1368/14 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nVIETNAM.\nCHART 93360\n1. DANGEROUS WRECK VICINITY 09-59N 106-54E.\n2. CANCEL HYDROPAC 1367/14, PERSONS RESCUED.//Authority: MRCC VIETNAM 121735Z MAY 14.Date: 121953Z MAY 14中文  \n南中国海。\n越南。\n图93360\n1. 危险沉船附近 09-59N 106-54E。\n2. 取消 HYDROPAC 1367/14, 获救者///授权: 搜救中心越南121735Z 可能 14.Date: 121953Z 5月14日\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.276667,
+                    2.716667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1194/15 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  STRAIT OF MALACCA.\nDNC 03.\nCHART 71285.\nDANGEROUS WRECK IN 02-43.0N 101-16.6E.//Authority: NAVAREA XI 254/15 090512Z APR 15.Date: 090640Z APR 15中文  马六甲海峡。\nDNC 03。\n图71285。\n危险沉船在 02-43.0N 101-16.6E///权威: NAVAREA XI 254/15 090512Z APR 15.Date: 090640Z APR 15\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.775,
+                    1.123334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 4020/15 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SINGAPORE STRAIT.\nDNC 03.\nCHART 71252.\nRACON AT HELEN MAR REEF LIGHT 01-07.4N 103-46.5E OFF AIR.// Authority: NAVAREA XI 932/15 100305Z DEC 15.Date: 100412Z DEC 15中文  新加坡海峡。\nDNC 03。\n图71252。\nRACON 在海伦的珊瑚礁 01-07.4N 103-46.5E 空气.//权限: NAVAREA XI 932/15 100305Z 东汽 15.Date: 100412Z DEC 15\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.936667,
+                    2.82,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 4068/15 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  STRAIT OF MALACCA.\nDNC 03.\nCHART 71285.\nONE FATHOM BANK SOUTH MARK BUOY 02-49.2N 100-56.2E MISSING.//Authority: NAVAREA XI 944/15 131939Z DEC 15.Date: 131943Z DEC 15中文  马六甲海峡。\nDNC 03。\n图71285。\n一个了解银行南标记浮标 02-49.2N 100-56.2E 缺掉.//权威: NAVAREA 西 944/15 131939Z 东汽 15.Date: 131943Z DEC 15\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.463334,
+                    -12.621666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1059/16 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  CORAL SEA.\nAUSTRALIA-NORTHEAST COAST.\nDNC 05.\nCHART 74267.\nRESTORATION ROCK LIGHT 12-37.3S 143-27.8E\nCHANGED TO: FL W 3 SEC.\nAUXILIARY LIGHT, FL R 3 SEC 14 MILES\nBETWEEN 132 AND 152 DEGREES, ESTABLISHED.//Authority: AUSCOAST 78/16 090844Z APR 16.Date: 091200Z APR 16中文  珊瑚海。\n澳大利亚-东北海岸。\nDNC 05。\n图74267。\n还原岩光 12-37.3S 143-27.8E\n改为: FL W 3 秒。\n辅助灯, FL R 3 秒14英里\n在132和152度之间, 建立了.//授权: AUSCOAST 78/16 090844Z apr 16.Date: 091200Z APR 16\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.353334,
+                    17.7,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2055/16 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  BAY OF BENGAL.\nINDIA-EAST COAST.\nDNC 03.\nCHART 63290.\nSALVAGE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE\nVICINITY 17-42N 083-21.2E. WIDE BERTH REQUESTED.//Authority: NAVAREA VIII 432/16 081004Z JUL 16.Date: 081018Z JUL 16中文  孟加拉湾。\n印度-东海岸。\nDNC 03。\n图63290。\n打捞作业正在进行, 直至另行通知\n附近 17-42N 083-21.2E。宽泊位要求.//授权: NAVAREA 八 432/16 081004Z JUL 16.Date: 081018Z JUL 16\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.383334,
+                    27.266667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2318/16 [1 of 2]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  PERSIAN GULF.\nDNC 10.\nCHART 62531.\n1. PLATFORM 27-16.0N 051-23.0E UNLIT.\n2. PIPE 27-16.7N 051-03.0E UNLIT.//Authority: USS SAN JACINTO 030735Z AUG 16.Date: 030912Z AUG 16中文  波斯湾。\nDNC 10。\n图62531。\n1. 平台 27-16.0N 051-23.0E 未亮起。\n2. 管道 27-16.7N 051-03.0E 未亮起///权威: USS 圣托 030735Z AUG 16.Date: 030912Z AUG 16\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605,
+                    16.588167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 217/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nVIETNAM.\nDNC 23.\nCHART 93540.\nDERELICT VESSEL NAM VY 39 AGROUND IN\n16-35.29N 107-36.30E.//Authority: HAIPHONG RADIO 200028Z JAN 17.Date: 200429Z JAN 17中文  南中国海。\n越南。\nDNC 23。\n图93540。\n废弃船只南 VY 39 搁浅在\n16-35.29N 107-36.30E: 海防无线电200028Z 简 17.Date: 200429Z 简17\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.873334,
+                    20.668334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 570/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF TONKIN.\nVIETNAM.\nDNC 23.\nCHART 93620.\nDANGEROUS WRECK IN 20-40.1N 106-52.4E.//Authority: HAIPHONG RADIO 161236Z FEB 17.Date: 161326Z FEB 17中文  东京湾。\n越南。\nDNC 23。\n图93620。\n危险沉船在 20-40.1N 106-52.4E///权威: 海防电台 161236Z FEB 17.Date: 161326Z FEB 17\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.023334,
+                    -14.861666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1488/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN INDIAN OCEAN.\nAUSTRALIA-NORTHWEST COAST.\nDNC 04.\nCHART 74012.\nFISHING GEAR ABANDONED IN VICINITY\n14-51.7S 122-01.4E AT 280317Z APR.//Authority: SEA SAFETY 26/17 280423Z APR 17.Date: 280447Z APR 17中文  东印度洋。\n澳大利亚-西北海岸。\nDNC 04。\n图74012。\n在附近弃置渔具\n14-51.7S 122-01.4E 280317Z.///权威: 海上安全 26/17 280423Z apr 17.Date: 280447Z APR 17\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.148334,
+                    21.473334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2709/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  RED SEA.\nSAUDI ARABIA.\nDNC 10.\nCHART 62250.\nJEDDAH DGPS STATION 21-28.4N 039-08.9E OFF AIR.//Authority: NAVAREA IX 215/17 091500Z JUL 17.Date: 091826Z AUG 17中文  红海。\n沙特阿拉伯。\nDNC 10。\n图62250。\n吉达差分台站 21-28.4N 039-08.9E 关闭//授权: NAVAREA IX 215/17 091500Z JUL 17.Date: 091826Z AUG 17\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.653889,
+                    53.030834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 3379/17 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TATAR STRAIT.\nSAKHALIN.\nRUSSIA\nDNC 24.\nCHART 96016.\n1. DANGEROUS WRECK, LEAST DEPTH 1.7 METERS,\n   IN 53-01-51N 141-39-14E.\n2. CANCEL HYDROPAC 2771/17.//Authority: VLADIVOSTOK 234/17 030900Z OCT 17.Date: 030932Z OCT 17中文  鞑靼海峡。\n库页岛。\n俄罗斯\nDNC 24。\n图96016。\n1. 危险沉船, 最低深度1.7 米,\n在 53-01-51n 141-39-14e。\n2. 取消 HYDROPAC 2771/17.//授权: 海参崴 234/17 030900Z oct 17.Date: 030932Z 华侨城17\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.436667,
+                    -27.15,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 172/18 [1 of 2]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN SOUTH PACIFIC.\nCHILIE.\nDNC 06.\n1. NAVTEX STATION ISLA DE PASCUA (F) 27-09.0S 109-26.2W\n   OFF AIR.\n2. VALPARAISO PLAYA ANCHA RADIO 33-04.7S 071-36.8W\n   WILL TRANSMIT VIA SAFETYNET.//Authority: NAVAREA XV 6/18 130745Z JAN 18.Date: 130745Z JAN 18中文  东南太平洋。\n细胞。\nDNC 06。\n1. NAVTEX 站复活节岛 (F) 27-09.0 S 109-26.2 W\n关闭空气。\n2. 瓦尔帕莱索海滩安查收音机 33-04.7 s 071-36.8 W\n将通过群呼传输///授权: NAVAREA XV 6/18 130745Z 简 18.Date: 130745Z 简18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.196667,
+                    -24.523333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 894/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  MOZAMBIQUE CHANNEL.\nMOZAMBIQUE.\nDNC 02.\nCHART 61120.\nPONTA ZAVORA LIGHT 24-31.4S 035-11.8E UNLIT.//Authority: NAVAREA VII 78/18 070807Z MAR 18.Date: 071122Z MAR 18中文  莫桑比克海峡。\n莫桑比克。\nDNC 02。\n图61120。\n蓬 ZAVORA 灯 24-31.4S 035-11.8E 未亮起///授权: NAVAREA 七 78/18 070807Z 18 18.Date: 071122Z\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.433334,
+                    7.416667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 996/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nGULF OF THAILAND.\nDNC 03.\nCHART 93018.\nPLATFORM REPORTED IN 07-25N 103-26E.//Authority: NAVAREA XI 137/18 140953Z MAR 18.Date: 140956Z MAR 18中文  南中国海。\n泰国湾。\nDNC 03。\n图93018。\n在 07-25N 103-26E 报告的平台: NAVAREA 137/18 140953Z, 18.Date: 140956Z 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.569445,
+                    53.049167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1048/18 [1 of 4]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  KAMCHATKA.\nDNC 24.\nCHART 96500.\n1. MOORING BUOYS ESTABLISHED IN:\n   A. 53-02-57N 158-34-10E.\n   B. 53-03-02N 158-34-10E.\n   C. 53-03-02N 158-34-17E.\n2. NAVIGATION PROHIBITED IN AREA WITHIN\n   0.15 MILES OF 53-02-59N 158-34-13E.//Authority: PETROPAVLOSK 26/18 151200Z MAR 18.Date: 162230Z MAR 18中文  堪察加。\nDNC 24。\n图96500。\n1. 在下列情况下建立的系泊浮标:\n53-02-57N 158-34-10E。\nB. 53-03-02N 158-34-10e。\nC. 53-03-02N 158-34-17th。\n2. 禁止在区域内航行\n0.15 英里的 53-02-59N 158-34-13E////权威: PETROPAVLOSK 26/18 151200Z 18 18.Date: 162230Z。\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.25,
+                    -19.05,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1422/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN SOUTH PACIFIC.\nFIJI.\nDNC 06.\nDUE TO CYCLONE KENI AFTERMATH, AIDS TO NAVIGATION\nIN KADAVU ISLAND (19-03S 178-15E) ARE UNRELIABLE.\nMARINERS IN VICINITY ARE REQUESTED TO EXERCISE CAUTION.//Authority: NAVAREA XIV 48/18 130430Z APR 18.Date: 130500Z APR 18中文  南太平洋西部。\n斐济。\nDNC 06。\n由于旋风可尼泊后, 艾滋病导航\n在 KADAVU 岛 (19-03S 178-15E) 是不可靠的。\n附近的海员请注意.//权限: NAVAREA XIV 48/18 130430Z apr 18.Date: 130500Z apr 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7985,
+                    -20.315166,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 1524/18 [1 of 2]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN INDIAN OCEAN.\nMAURITIUS.\nDNC 02.\nCHART 61591.\nDANGEROUS WRECKS REPORTED IN:\nA. 20-18.91S 057-47.91E.\nB. 20-18.11S 057-48.52E.//Authority: NAVAREA VIII 312/18 191002Z APR 18.Date: 191500Z APR 18中文  \n西印度洋。\n毛里求斯。\nDNC 02。\n图61591。\n危险沉船报告:\n20-18.91S 057-47.91E。\nB. 20-18.11S 057-48.52E: NAVAREA 八 312/18 191002Z APR 18.Date: 191500Z APR 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.700334,
+                    10.027167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2182/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF THAILAND.\nVIETNAM.\nDNC 03.\nCHART 93300.\nDANGEROUS WRECK MARKED BY TWO GREY-BLACK FLAGS\nIN 10-01.63N 104-42.02E.//Authority: HAIPHONG RADIO 121240Z JUN 18.Date: 121324Z JUN 18中文  泰国湾。\n越南。\nDNC 03。\n图93300。\n两个灰黑旗标记的危险沉船\n10-01.63N 104-42.02E: 海防电台121240Z 骏 18.Date: 121324Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.651667,
+                    26.215334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2193/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  PERSIAN GULF.\nBAHRAIN.\nDNC 10.\nCHART 62531.\nDANGEROUS WRECK, LEAST DEPTH 2.1 METERS,\nIN 26-12.92N 050-39.10E.//Authority: NAVAREA IX 144/18 131500Z JUN 18.Date: 131517Z JUN 18中文  波斯湾。\n巴林。\nDNC 10。\n图62531。\n危险的残骸, 最少深度2.1 米,\n26-12.92N 050-39.10E: NAVAREA IX 144/18 131500Z 骏 18.Date: 131517Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.833334,
+                    8.083334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2353/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  ARABIAN SEA.\nDNC 03.\nF/V PIYARELLO HOSANA REPORTS CREWMAN REQUIRING\nMEDICAL ASSISTANCE IN 08-05N 068-50E AT 251400Z JUN.\nVESSELS IN VICINITY ABLE TO PROVIDE MEDICAL\nASSISTANCE REQUESTED TO ASSIST IF POSSIBLE.\nREPORTS TO MRCC MUMBAI, PHONE: 9122 2438 8065,\n9122 2438 3592, FAX: 9122 2431 6558,\nE-MAIL: INDSAR@VSNL.NET.//Authority: MRCC MUMBAI 251731Z JUN 18.Date: 251813Z JUN 18中文  阿拉伯海。\nDNC 03。\nPIYARELLO HOSANA 报告船员需要\n在 251400Z 08-05N 068-50E 的医疗援助。\n附近的船只能够提供医疗\n如有可能, 请提供协助。\n报告到搜救中心孟买, 电话: 9122 2438 8065,\n9122 2438 3592, 传真: 9122 2431 6558,\n电子邮件: INDSAR@VSNL///授权: 搜救中心孟买251731Z 骏 18.Date: 251813Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.45,
+                    25.733334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2361/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EAST CHINA SEA.\nTAIWAN.\nDNC 23.\nDISTRESS SIGNAL RECEIVED 25-44N 123-27E\nAT 261157Z JUN.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO JAPAN COAST GUARD,\nPHONE: 819 9886 4999, 814 5663 4999.//Authority: JAPAN COAST GUARD 261333Z JUN 18.Date: 261410Z JUN 18中文  东海。\n台湾。\nDNC 23。\n遇险信号收到 25-44N 123-27E\n在261157Z。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向日本海岸警卫队报告,\n电话: 819 9886 4999, 814 5663 4999.//权威: 日本海岸警卫队261333Z 骏 18.Date: 261410Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.003334,
+                    39.608334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2391/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SEA OF JAPAN.\nDNC 12, DNC 24.\nDISTRESS SIGNAL RECEIVED IN VICINITY\n39-36.5N 134-00.2E AT 290145Z JUN.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO JAPAN COAST GUARD,\nPHONE: 812 5288 2611.//Authority: JAPAN COAST GUARD 290245Z JUN 18.Date: 290300Z JUN 18中文  日本海。\ndnc 12, dnc 24。\n附近收到遇险信号\n39-36.5N 134-00.2E 在290145Z。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向日本海岸警卫队报告,\n电话: 812 5288 2611.//权威: 日本海岸警卫队290245Z 骏 18.Date: 290300Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -138.558334,
+                    37.87,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2399/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN NORTH PACIFIC.\nDNC 13.\nDISTRESS SIGNAL RECEIVED ON 406 MHZ IN\n37-52.2N 138-33.5W.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC ALAMEDA,\nTELEX: 230172343, PHONE: 510 437 3701,\nE-MAIL: RCCALAMEDA1@USCG.MIL.//Authority: RCC ALAMEDA 291918Z JUN 18.Date: 291925Z JUN 18中文  北太平洋东部。\nDNC 13。\n在406兆赫接收的遇险信号在\n37-52.2 N 138-33.5 W。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告给碾压混凝土的\n传真: 230172343, 电话: 510 437 3701,\n电子邮件: RCCALAMEDA1@USCG///权威: 碾压混凝土291918Z 骏 18.Date: 291925Z 骏18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.641667,
+                    -22.036666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2400/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN SOUTH PACIFIC.\nNEW CALEDONIA.\nDNC 06.\nCHART 82030.\n1. DERELICT VESSEL AGROUND IN 22-02.2S 168-38.5E.\n   SALVAGE OPERATIONS IN PROGRESS UNTIL 31 AUG.\n   FIVE MILE BERTH REQUESTED.\n2. CANCEL HYDROPAC 1243/18.\n3. CANCEL THIS MSG 01 SEP 18.//Authority: AVURNAV NOUMEA 26/18 292220Z JUN 18.Date: 292233Z JUN 18Cancel: 01000000 Sep 18中文  南太平洋西部。\n新喀里多尼亚。\nDNC 06。\n图82030。\n1. 在 22-02.2S 168-38.5E 搁浅的废弃船只。\n打捞作业正在进行, 直到 31 AUG。\n五英里的泊位要求。\n2. 取消 HYDROPAC 1243/18。\n3. 取消此味精 01 SEP 18.//权限: AVURNAV 努美阿 26/18 292220Z 骏 18.Date: 292233Z 骏 18Cancel: 01000000 9月18日\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.016667,
+                    -33.666666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2416/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TASMAN SEA.\nAUSTRALIA-EAST COAST.\nDNC 05.\nSUBMERGED OBJECT IN 33-40S 152-01E\nAT 300600Z JUN 18.//Authority: SEA SAFETY 34/18 012244Z JUL 18.Date: 012259Z JUL 18中文  塔斯曼海。\n澳大利亚-东海岸。\nDNC 05。\n33-40S 152-01E 中的淹没物\n在300600Z 骏 18////权威: 海上安全 34/18 012244Z JUL 18.Date: 012259Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.373334,
+                    1.613334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2423/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nMALAYSIA.\nDNC 03.\n24 PERSONS OVERBOARD IN 01-36.80N 104-22.40E.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO MALAYSIA COAST GUARD.//Authority: SINGAPORE PORT OPERATIONS CONTROL CENTER 021130Z JUL 18.Date: 021205Z JUL 18中文  南中国海。\n马来西亚。\nDNC 03。\n01-36.80N 104-22.40E 24 人落水。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向马来西亚海岸警卫队报告//授权: 新加坡港口运营控制中心 021130Z JUL 18.Date: 021205Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.998334,
+                    4.795,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2432/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH PACIFIC.\nDNC 12.\nDISTRESS SIGNAL RECEIVED ON 406 MHZ IN\n04-47.7N 149-59.9E.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC GUAM,\nPHONE: 671 355 4824, 671 355 4910,\nFAX: 671 355 4831,\nE-MAIL: RCCGUAM@USCG.MIL.//Authority: RCC GUAM 022306Z JUL 18.Date: 022322Z JUL 18中文  北太平洋西部。\nDNC 12。\n在406兆赫接收的遇险信号在\n04-47.7 N 149-59.9 E。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告给碾压混凝土关岛,\n电话: 671 355 4824, 671 355 4910,\n传真: 671 355 4831,\n电子邮件: RCCGUAM@USCG//授权: 碾压混凝土关岛 022306Z JUL 18.Date: 022322Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.075,
+                    6.143334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2440/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nDNC 11.\nDISTRESS SIGNAL RECEIVED FROM VESSEL GRACE RIVER\nIN 06-08.6N 107-04.5E AT 030857Z JUL.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO MRCC SINGAPORE,\nTELEX: 20021,\nPHONE: 656 226 5539,\nFAX: 656 227 9971,\nE-MAIL: POCC@MPA.GOV.SG.//Authority: MRCC SINGAPORE 030953Z JUL 18.Date: 031005Z JUL 18中文  南中国海。\nDNC 11。\n从船宽河收到遇险信号\n在 06-08.6N 107-04.5E 030857Z JUL。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向新加坡搜救中心的报告,\n电传: 20021,\n电话: 656 226 5539,\n传真: 656 227 9971,\n电子邮件: POCC@MPA.GOV POCC@MPA。搜救中心新加坡 030953Z JUL 18.Date: 031005Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.666667,
+                    14.216667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2465/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nDNC 11.\nVESSELS HUNG LONG 14 AND HUNG LONG 15, SEVEN\nPERSONS ON BOARD, DISABLED AND ADRIFT DUE TO\nENGINE FAILURE IN 14-13N 114-40E AT 040600Z JUL.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO MRCC VIETNAM,\nFAX: 8422 5398 1615,\nE-MAIL: HPLES-GMDSS@HPLES.COM.VN.//Authority: MRCC VIETNAM 050330Z JUL 18.Date: 050357Z JUL 18中文  南中国海。\nDNC 11。\n船只长14悬挂长 15, 七\n在船上, 残疾人和漂流由于\n040600Z JUL 14-13N 114-40E 发动机故障。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n报告搜救中心越南,\n传真: 8422 5398 1615,\n电子邮件: HPLES-GMDSS@HPLES: 搜救中心越南 050330Z JUL 18.Date: 050357Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.835,
+                    13.476667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2481/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH PACIFIC.\nGUAM.\nDNC 12.\n1. NAVTEX STATION GUAM (V) 13-28.6N 144-50.1E\n   OFF AIR.\n2. CANCEL HYDROPAC 1536/18.//Authority: COGARD COMMUNICATIONS COMMAND 061604Z JUL 18.Date: 061611Z JUL 18中文  北太平洋西部。\n关岛。\nDNC 12。\n1. 关岛 NAVTEX 站 (V) 13-28.6N 144-50.1E\n关闭空气。\n2. 取消 HYDROPAC 1536/18.//授权: COGARD 通信命令 061604Z JUL 18.Date: 061611Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.85,
+                    9,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2487/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nVIETNAM.\nDNC 11.\nMAN OVERBOAD FROM F/V BTH 96129 TS\nIN 09-00N 107-51E AT 062200Z JUL. VESSELS\nIN VICINITY REQUESTED TO KEEP A SHARP LOOKOUT,\nASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM,\nFAX: 8422 5398 1615, E-MAIL: HPLES-GMDSS@HPLES.COM.VN.//Authority: MRCC VIETNAM 070430Z JUL 18.Date: 070444Z JUL 18中文  南中国海。\n越南。\nDNC 11。\n人 OVERBOAD 从 BTH 96129 TS\n在 09-00N 107-51E 062200Z JUL。船只\n在附近要求保持敏锐的警惕,\n如有可能, 请协助。报告搜救中心越南,\n传真: 8422 5398 1615, 电子邮件: HPLES-GMDSS@HPLES: 搜救中心越南 070430Z JUL 18.Date: 070444Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.666667,
+                    7.666667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2491/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nGULF OF THAILAND.\nVIETNAM.\nDNC 03.\nMAN OVERBOARD FROM F/V BT 97760 TS IN\n07-40N 103-40E ON 052000Z JUL. VESSELS IN\nVICINITY REQUESTED TO KEEP A SHARP LOOKOUT,\nASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM,\nFAX: 8422 5398 1615, E-MAIL: HPLES-GMDSS@HPLES.COM.VN.//Authority: MRCC VIETNAM 071450Z JUL 18.Date: 071452Z JUL 18中文  南中国海。\n泰国湾。\n越南。\nDNC 03。\n男子从 F/V BT 97760 TS 下船\n07-40N 103-40E 052000Z JUL。船舶在\n附近要求保持敏锐的警惕,\n如有可能, 请协助。报告搜救中心越南,\n传真: 8422 5398 1615, 电子邮件: HPLES-GMDSS@HPLES: 搜救中心越南 071450Z JUL 18.Date: 071452Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.85,
+                    21.966667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2496/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nCHINA.\nDNC 23.\nMAN OVERBOARD FROM M/V CORAL AMBER IN\n21-58N 116-51E AT 071000Z JUL. VESSELS IN\nVICINITY REQUESTED TO KEEP A SHARP LOOKOUT,\nASSIST IF POSSIBLE. REPORTS TO MRCC HONG KONG,\nPHONE: 852 2233 7999, FAX: 852 2541 7714,\nE-MAIL: HKMRCC@MARDEP.GOV.HK.//Authority: MRCC HONG KONG 080353Z JUL 18.Date: 080402Z JUL 18中文  南中国海。\n中国。\nDNC 23。\n男子从米/V 珊瑚琥珀在船外\n21-58N 116-51E 071000Z JUL。船舶在\n附近要求保持敏锐的警惕,\n如有可能, 请协助。向搜救中心香港的报告,\n电话: 852 2233 7999, 传真: 852 2541 7714,\n电子邮件: HKMRCC@MARDEP.GOV HKMRCC@MARDEP。香港//香港: 搜救中心 080353Z JUL 18.Date: 080402Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.453834,
+                    13.053834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2500/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  EASTERN NORTH PACIFIC.\nDNC 13.\n16 METER F/V MARIA ANTRONITA, 24 PERSONS ON BOARD,\nTAKING ON WATER IN 13-03.23N 116-27.23W.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE. REPORTS TO RCC ALAMEDA,\nTELEX: 230172343, PHONE: 510 437 3701,\nE-MAIL: RCCALAMEDA1@USCG.MIL.//Authority: RCC ALAMEDA 081836Z JUL 18.Date: 081855Z JUL 18中文  \n北太平洋东部。\nDNC 13。\n16米/V 玛丽亚 ANTRONITA, 24 个人在船上,\n13-03.23N 116-27.23W 的水。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。报告给碾压混凝土的\n传真: 230172343, 电话: 510 437 3701,\n电子邮件: RCCALAMEDA1@USCG//权威: 碾压混凝土 081836Z JUL 18.Date: 081855Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.826667,
+                    10.491667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2501/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nVIETNAM.\nDNC 11.\nM/V AN PHU 868, TAKING ON WATER IN 10-29.5N 107-49.6E.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO BINH THUAN PORT AUTHORITY.//Authority: MRCC VIETNAM 090033Z JUL 18.Date: 090057Z JUL 18中文  南中国海。\n越南。\nDNC 11。\n868, 10-29.5N 107-49.6E 水。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向顺港口管理局报告//授权: 搜救中心越南 090033Z JUL 18.Date: 090057Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09,
+                    5.801667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2530/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SULU SEA.\nMALAYSIA.\nDNC 11.\n1. M/V REPORTS ACT OF PIRACY IN\n   SANDAKAN (05-48.1N 118-05.4E) AT 100600Z JUL.\n   VESSELS IN VICINITY REQUESTED\n   TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.\n   REPORTS TO IMB PIRACY REPORTING CENTER,\n   PHONE: 603 2031 0014, 603 2078 5763,\n   FAX: 603 2078 5769,\n   E-MAIL: IMBKL@ICC-CCS.ORG, PIRACY@ICC-CCS.ORG.\n2. CANCEL THIS MSG 180046Z JUL 18.//Authority: IMB PIRACY REPORTING CENTER 110001Z JUL 18.Date: 110046Z JUL 18Cancel: 18004600 Jul 18中文  苏鲁海。\n马来西亚。\nDNC 11。\n1. 举报盗版行为\n山打根 (05-48.1N 118-05.4E) 100600Z JUL。\n要求附近的船只\n要保持敏锐的警惕, 尽可能的协助。\n报告 IMB 盗版报告中心,\n电话: 603 2031 0014, 603 2078 5763,\n传真: 603 2078 5769,\n电子邮件: IMBKL@ICC-CCS.ORG IMBKL@ICC, PIRACY@ICC-CCS.ORG PIRACY@ICC-ccs。\n2. 取消此味精 180046Z JUL 18.//IMB 权威: 盗版举报中心 110001Z JUL 18.Date: 110046Z JUL 18Cancel: 18004600 7月18日\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.583334,
+                    -16.833333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2543/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  INDIAN OCEAN\nDNC 03.\n1. DERELICT VESSEL, ORANGE HULL, ADRIFT IN VICINITY\n   16-50S 076-35E AT 110240Z JUL.\n2. CANCEL THIS MSG 141116Z JUL 18.//Authority: NAVAREA VIII 489/18 111027Z JUL 18.Date: 111116Z JUL 18Cancel: 14111600 Jul 18中文  印度洋\nDNC 03。\n1. 废弃船只, 橙色船体, 在附近漂流\n16-50S 076-35E 110240Z JUL。\n2. 取消此味精 141116Z JUL 18.//NAVAREA 权威: 489/18 111027Z JUL 18.Date: 111116Z JUL 18Cancel: 14111600 7月18日\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.666667,
+                    7.833334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2548/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF THAILAND.\nDNC 03.\nMAN OVERBOARD FROM F/V CM 92116 TS IN\n07-50N 103-40E AT 091800Z JUL. VESSELS IN\nVICINITY REQUESTED TO KEEP A SHARP LOOKOUT,\nASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM,\nFAX: 8422 5398 1615, E-MAIL: HPLES-GMDSS@HPLES.COM.VN.//Authority: MRCC VIETNAM 120520Z JUL 18.Date: 120638Z JUL 18中文  泰国湾。\nDNC 03。\n男子从 F/V CM 92116 TS 下船\n07-50N 103-40E 091800Z JUL。船舶在\n附近要求保持敏锐的警惕,\n如有可能, 请协助。报告搜救中心越南,\n传真: 8422 5398 1615, 电子邮件: HPLES-GMDSS@HPLES: 搜救中心越南 120520Z JUL 18.Date: 120638Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.296667,
+                    7.998334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2551/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTH CHINA SEA.\nDNC 11.\nDISTRESS SIGNAL RECEIVED IN 07-59.9N 109-17.8E\nAT 121257Z JUL. VESSELS IN VICINITY REQUESTED\nTO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO MRCC SINGAPORE, TELEX: 20021,\nPHONE: 656 226 5539, FAX: 656 227 9971,\nE-MAIL: POCC@MPA.GOV.SG.//Authority: MRCC SINGAPORE 121405Z JUL 18.Date: 121423Z JUL 18中文  南中国海。\nDNC 11。\n07-59.9N 109-17.8E 收到遇险信号\n在 121257Z JUL。要求附近的船只\n要保持敏锐的警惕, 尽可能的协助。\n向新加坡搜救中心报告, 电传: 20021,\n电话: 656 226 5539, 传真: 656 227 9971,\n电子邮件: POCC@MPA.GOV POCC@MPA。搜救中心新加坡 121405Z JUL 18.Date: 121423Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.878334,
+                    27.243334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2554/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  PHILIPPINE SEA.\nDNC 12.\nCHART 97000.\nVOLCANIC ACTIVITY REPORTED IN 27-14.6N 140-52.7E\nAT 120502Z JUL.//Authority: NAVAREA XI 351/18 121707Z JUL 18.Date: 121719Z JUL 18中文  菲律宾海。\nDNC 12。\n图97000。\n27-14.6N 140-52.7E 火山活动报告\n120502Z JUL: NAVAREA 西 351/18 121707Z JUL 18.Date: 121719Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.498834,
+                    -37.784833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HYDROPAC 2555/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  SOUTHWESTERN INDIAN OCEAN.\nDNC 02.\n1. F/V HUNG JUNG 101 ON FIRE AND ADRIFT IN\n   37-47.09S 032-29.93E. VESSELS IN VICINITY\n   REQUESTED TO KEEP A SHARP LOOKOUT,\n   ASSIST IF POSSIBLE.\n   REPORTS TO ANY COASTAL RADIO STATION.\n2. CANCEL HYDROPAC 2535/18.//Authority: NAVAREA VII 226/18 121604Z JUL 18.Date: 122001Z JUL 18中文  西南印度洋。\nDNC 02。\n1. 鸿荣101号起火及漂流\n37-47.09S 032-29.93E。附近的船只\n要求保持敏锐的警惕,\n如有可能, 请协助。\n向任何沿海广播电台报告。\n2. 取消 HYDROPAC 2535/18.//授权: NAVAREA VII 226/18 121604Z JUL 18.Date: 122001Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.233334,
+                    58.9,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NAVAREA IV 525/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH ATLANTIC.\nLABRADOR SEA.\n12 METER S/V ALUMINATI UNREPORTED.\nLAST KNOWN POSITION IN 58-54N 047-14W\nAT 011200Z JUL.\nVESSELS IN VICINITY REQUESTED TO KEEP A SHARP\nLOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO AASIAAT RADIO,\nE-MAIL: OYR@TELEPOST.GL.//Authority: AASIAAT RADIO 010932Z JUL 18.Date: 012129Z JUL 18中文  北大西洋西部。\n拉布拉多海。\n12米的 ALUMINATI 未报告。\n58-54N 047-14W 的最后已知位置\n在 011200Z JUL。\n附近的船只要求保持尖锐\n如果可能的话, 请帮忙。\n向 AASIAAT 广播报告,\n电邮: OYR@TELEPOST: AASIAAT 收音机 010932Z JUL 18. 日期: 012129Z JUL 18\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.116167,
+                    6.173834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NAVAREA IV 537/18 [2 of 15]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN NORTH ATLANTIC\n.SURINAME.\n1. SURVEY OPERATIONS 11 JUL THRU 15 SEP BY\n   M/V LADY LEE, M/V MARIA JOSE ll AND\n   M/V GEOEXPLORER IN:\n   A.06-09.63N 055-16.11W.\n   B.06-10.43N 055-06.97W.\n   C.06-09.52N 055-27.09W.\n   D.06-13.31N 055-54.27W.\n   E.06-08.35N 056-00.85W.\n   F.06-10.54N 055-45.61W.\n   G.06-07.94N 055-39.34W.\n   H.05-58.89N 056-07.31W.\n   I.06-13.54N 056-09.46W.\n   J.06-09.65N 056-53.11W.\n   K.06-08.42N 057-01.95W.\n   L.06-10.60N 056-00.85W.\n   M.06-09.90N 055-02.14W.\n   N.06-13.74N 055-11.06W.\n   O.06-05.99N 056-40.09W.\n   THREE MILE BERTH REQUESTED.\n2. CANCEL THIS MSG 16 SEP 18.//Authority: SURINAME 11/18 061516Z JUL 18.Date: 061543Z JUL 18Cancel: 16000000 Sep 18中文  北大西洋西部\n.苏里南。\n1. 调查行动 11 JUL 通过 15 SEP\n李女士, m/v 玛丽亚和\nGEOEXPLORER 和:\nA. 06-09.63 N 055-16.11 W。\nB. 06-10.43 N 055-06.97 W。\nC. 06-09.52 N 055-27.09 W。\nD. 06-13.31 N 055-54.27 W。\nE. 06-08.35 N 056-00.85 W。\nF. 06-10.54 N 055-45.61 W。\nG. 06-07.94 N 055-39.34 W。\nH. 05-58.89 N 056-07.31 W。\ni. 06-13.54 N 056-09.46 W。\nJ. 06-09.65 N 056-53.11 W。\nK. 06-08.42 N 057-01.95 W。\nL. 06-10.60 N 056-00.85 W。\nm. 06-09.90 N 055-02.14 W。\n06-13.74N 055-11.06W。\nO. 06-05.99 N 056-40.09 W。\n三英里的泊位要求。\n2. 取消此味精 16 SEP 18.//主管: 苏里南 11/18 061516Z JUL 18.Date: 061543Z JUL 18Cancel: 16000000 9月18日\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.153667,
+                    18.747,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NAVAREA IV 553/18 [1 of 1]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  WESTERN CARIBBEAN SEA.\nCAYMAN ISLANDS.\nDISTRESS SIGNAL RECEIVED FROM F/V FAITH IN VICINITY\n18-44.82N 080-09.22W. VESSELS IN VICINITY REQUESTED\nTO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.\nREPORTS TO RCC MIAMI, PHONE: 305 415 6800,\nE-MAIL: RCCMIAMI@USCG.MIL.//Authority: RCC MIAMI 121109Z JUL 18.Date: 121114Z JUL 18中文  西加勒比海。\n开曼群岛。\n在附近的信中收到的求救信号\n18-44.82N 080-09.22W。要求附近的船只\n要保持敏锐的警惕, 尽可能的协助。\n报告给 RCC 迈阿密电话: 305 415 6800,\n电子邮件: RCCMIAMI@USCG///权威: 碾压混凝土迈阿密 121109Z JUL 18.Date: 121114Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.01,
+                    36.728334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NAVAREA IV 556/18 [3 of 3]",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  GULF OF MEXICO.\nLOUISIANA.\n1. USCG REMOTE COMMUNICATION FACILITY\n   NEW ORLEANS (G) 29-53.1N 089-56.7W UNABLE TO\n   TRANSMIT AND RECEIVE DISTRESS AND DSC.\n2. DISTRESS AND DSC WILL BE MONITORED\n   BY USCG REMOTE COMMUNICATION FACILITIES:\n   A. MIAMI (A) 25-37.4N 080-23.4W.\n   B. CHESAPEAKE (N) 36-43.7N 076-00.6W.//Authority: COGARD COMMUNICATIONS COMMAND 122141Z JUL 18.Date: 122148Z JUL 18中文  墨西哥湾。\n路易斯安那州。\n1. USCG 远程通信设施\n新奥尔良 (G) 29-53.1N 089-56.7W 无法\n传输和接收遇险和 DSC。\n2. 将监测遇险和 DSC\nUSCG 远程通讯设施:\n迈阿密 (a) 25-37.4N 080-23.4W。\nB. 切萨皮克 (N) 36-43.7N 076-00.6W: COGARD 通信命令 122141Z JUL 18.Date: 122148Z JUL 18\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.68333333,
+                    38.555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turkey",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TURNHOS N/W : 0773/18\t(İzmir NAVTEX Station) (Published Date25-07-2018 10:26)\nTURNHOS N/W : 0773/18\nAEGEAN SEA\nMILITARY TRAININGS, ON 30 AND 31 JUL 18 FROM 0600Z TO 1300Z IN AREA BOUNDED BY;\n38 33.30 N - 026 41.00 E\n38 33.30 N - 026 45.00 E\n38 27.33 N - 026 45.00 E\n38 27.33 N - 026 41.00 E\nCAUTION ADVISED.中文  TURNHOS: 0773/18 (伊兹密尔 NAVTEX 站) (出版 Date25-07-2018 10:26)\nTURNHOS: 0773/18\n爱琴海\n军事训练, 在30和 31 JUL 18 从0600Z 到1300Z 在范围由;\n38 33.30 N-026 41.00 和\n38 33.30 N-026 45.00 和\n38 27.33 N-026 45.00 和\n38 27.33 N-026 41.00 和\n警告建议。\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.04216667,
+                    36.69133333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turkey",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TURNHOS N/W : 0768/18\t(İzmir NAVTEX Station) (Published Date24-07-2018 08:13)\nTURNHOS N/W : 0768/18\nAEGEAN SEA\nBOZBURUN FISHERMAN'S SHELTER MAIN BREAKWATER LIGHT IN POSITION, 36 41.48 N, 028 02.53 E UNLIT.\nCAUTION ADVISED.中文  TURNHOS: 0768/18 (伊兹密尔 NAVTEX 站) (出版 Date24-07-2018 08:13)\nTURNHOS: 0768/18\n爱琴海\nBOZBURUN 渔民的庇护所主防波堤灯就位, 36 41.48 N, 028 02.53 E 熄灭。\n警告建议。\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.51666667,
+                    41.9,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turkey",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TURNHOS N/W : 0755/18\t(Samsun NAVTEX Station) (Published Date20-07-2018 15:17)\nTURNHOS N/W  : 0755/18\nBLACK SEA\nFIRING EXERCISE, BETWEEN 24-27 JUL 18 FROM 0800Z TO 1400Z IN AREA BOUNDED BY;\n41 48.00 N - 030 32.00 E\n41 54.00 N - 031 31.00 E\n41 57.00 N - 032 13.00 E\n41 47.00 N - 032 22.00 E\n41 42.00 N - 032 19.00 E\n41 31.00 N - 030 43.00 E\n41 35.00 N - 030 35.00 E\nCAUTION ADVISED.中文  TURNHOS: 0755/18 (萨姆松 NAVTEX 站) (出版 Date20-07-2018 15:17)\nTURNHOS: 0755/18\n黑海\n射击锻炼, 在 24-27 JUL 18 之间从0800Z 到1400Z 在范围由;\n41 48.00 N-030 32.00 和\n41 54.00 N-031 31.00 和\n41 57.00 N-032 13.00 和\n41 47.00 N-032 22.00 和\n41 42.00 N-032 19.00 和\n41 31.00 N-030 43.00 和\n41 35.00 N-030 35.00 和\n警告建议。\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.73733333,
+                    40.66566667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turkey",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TURNHOS N/W : 0753/18\nAEGEAN SEA\nFIRING EXERCISE, BETWEEN 24-27 JUL 18 AND 31 JUL-03 AUG 18 WITHIN RADIUS 1 NM OF 40 36.94 N - 026 44.24 E.\nCAUTION ADVISED.中文  TURNHOS: 0753/18\n爱琴海\n射击锻炼, 在 24-27 JUL 18 和31之间 JUL-03 AUG 18 在半径1毫微米之内 40 36.94 N 026 44.24 E。\n警告建议。\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.25616667,
+                    40.85116667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turkey",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  TURNHOS N/W : 0730/18\t(İstanbul NAVTEX Station) (Published Date13-07-2018 15:57)\nTURNHOS N/W : 0730/18\nSEA OF MARMARA\nSEA EMBANKMENT OPERATIONS, UNTIL FURTHER NOTICE IN AREA BOUNDED BY:\n40 51.07 N - 029 15.37 E\n40 50.75 N - 029 15.48 E\n40 50.47 N - 029 15.53 E\n40 50.35 N - 029 15.73 E\nCAUTION ADVISED.中文  TURNHOS: 0730/18 (伊斯坦布尔 NAVTEX 站) (出版 Date13-07-2018 15:57)\nTURNHOS: 0730/18\n马尔马拉海之海\n海堤操作, 直到进一步通知在区域由:\n40 51.07 N-029 15.37 和\n40 50.75 N-029 15.48 和\n40 50.47 N-029 15.53 和\n40 50.35 N-029 15.73 和\n警告建议。\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.94133333,
+                    34.5695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cyprus",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  ZCZC MA 61\n\n13 0600 UTC JULY 2018\nJRCC LARNACA/CYPRUS RADIO\nNAV WRNG NR 246/18\n\nFIRING PRACTISE WILL TAKE PLACE ON:\n16 - 20 AND 27 JULY 2018 BETWEEN 0430-1200 UTC\n\nNEAR CAPE AKROTIRI BOUNDED BY THE FOLLOWING COORDINATES:\n\n34 34.17N 032 56.48E\n34 32.60N 032 56.20E\n34 32.67N 032 58.05E\n34 34.17N 032 57.63E\n\nTHIS AREA IS VERY DANGEROUS FOR NAVIGATION\n\nCANCEL THIS MESSAGE ON 27 1201 UTC JULY 2018\nJRCC LARNACA/CYPRUS RADIO/5BA\n\nNNNN中文  ZCZC 马61\n\n13 0600 UTC 2018年7月\nJRCC 拉纳卡/塞浦路斯广播电台\n导航 WRNG NR 246/18\n\n射击练习将进行:\n16-20 和2018年7月27日在 0430-1200 UTC 之间\n\n阿克罗蒂里角附近有以下坐标:\n\n34 34.17 N 032 56.48 和\n34 32.60 N 032 56.20 和\n34 32.67 N 032 58.05 和\n34 34.17 N 032 57.63 和\n\n这一带的航行非常危险。\n\n取消此邮件在 27 1201 UTC 2018年7月\nJRCC 拉纳卡/塞浦路斯 RADIO/5BA\n\nNNNN\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.48666667,
+                    37.465,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greece",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  ZCZC HA75\n051230 UTC APR 18\nIRAKLEIO RADIO NAVWARN 130/18\nSOUTH AIGAIO SEA SE OF TRAGONISI AND\nMIKONOS ISLANDS.\nFROM 05 APR 18 AND UNTIL FURTHER NOTICE\nWRECK REFLOATING OPERATIONS OF\nM/V LITTLE SEYMA WILL BE CARRIED OUT\nIN PSN:\n37-27.9N 025-29.2E.\nBERTH OF AT LEAST 300 MTRS REQUESTED.\nNNNN中文  ZCZC HA75\n051230 UTC APR 18\nIRAKLEIO 无线电 NAVWARN 130/18\n南 AIGAIO 海硒的 TRAGONISI 和\n米科诺斯群岛。\n从 05 APR 18 和直到进一步通知\n沉船打捞操作\n小 SEYMA 将被执行\n在核酸:\n37-27.9 N 025-29.2 E。\n至少300中期审查请求的泊位。\nNNNN\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.11666667,
+                    36.3,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greece",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  ZCZC HA07\n191210 UTC DEC 17\nIRAKLEIO RADIO NAVWARN 747/17\nKRITIKO SEA.\nACTIVATION OF\nKRITI FIRING PRACTICE AREA SECTOR 'C'\n1. MISSILES FIRING\ni) 0530 UTC TO SUNSET.\nEVERY WED, THU, FRI AND SAT\nFROM 01 JAN TO 31 DEC 18\nii) 01 APR 18 TO 31 OCT 18 SECTOR\n'C' WILL NOT BE ACTIVATED ON SATURDAY\nUNLESS NOTIFIED BY APPROPRIATE NAVWARN\nIN AREA BOUNDED BY:\nA. 36-18N 024-07E\nB. 36-18N 025-59E\nC. 36-25N 026-12E\nD. 36-16N 026-40E\nE. 35-36N 026-41E\nF. 35-31N 024-11E\nG. 35-36N 024-07E\niii) TARGET DROPPING ZONES\nR1: CIRCLE OF 1000 METRES RADIUS\nCENTRED ON: 35-32N 024-13E AND\nR2: CIRCLE OF 1000 METRES RADIUS\nCENTRED ON: 35-28N 024-11,75E\nTRANSITTING VESSELS KEEP WATCH\n'NAMFI CONTROL' ON VHF CH 12/16\n2. CANCEL THIS MSG 311615 UTC DEC 18\nNNNN中文  ZCZC HA07\n191210 UTC DEC 17   IRAKLEIO 无线电 NAVWARN 747/17\nKRITIKO 海。\n激活的\n克里特射击练习区区段 ' C '\n1. 导弹发射\ni) 0530 UTC 到日落。\n每周三、周四、周五和周六\n从01简到 31 DEC 18\nii) 01 APR 18 至31华侨城18区\n\"C\" 不会在星期六启用\n除非适当的 NAVWARN 通知\n在区域由:\nA. 36-18N 024-07E\nB. 36-18N 025-59th\nC. 36-25N 026-12e\nD. 36-16N 026-40th\nE. 35-36n 026-41e\nF. 35-31N 024-11th\nG. 35-36N 024-07th\n三) 目标空投区\nR1: 1000年米半径圆\n中心在: 35-32N 024-13E 和\nR2: 1000年米半径圆\n中心: 35-28N 024-11,75E\n正接受船只监视\n\"NAMFI 控制\" 在 VHF CH 12/16\n2. 取消此味精 311615 UTC DEC 18\nNNNN\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    32.4455,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Israel",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  Notice to mariners 93/2018 (24 July, 2018)\nSubject: port of Hadera liquid gas \"ship to ship\" transfer operation .\nCharts affected: survey of Israel charts: 1, 22, 4130\nB A chart : 2634\n\nThis is to advise all mariners that a ship to ship liquid gas transfer operation will be executed in Hadera Liquid gas manifold,  position :\n\n 32°26.73' N   034°45.' E  from today 34th July 1000hr till 26th July 1200hr.\n\nAll vessels are requested to keep safe distance of 2 miles.中文  水手通知 93/2018 (24 2018年7月)\n主题: Hadera 气道 \"船到船\" 转让操作。\n受影响的图表: 以色列的调查图表: 1, 22, 4130\nB 图表: 2634\n\n这是通知所有水手船的液体气体转移操作将执行在 Hadera 液体气体歧管, 位置:\n\n32°26.73 ' N 034°45。E 从今天 7月34日1000hr 直到 7月26日1200hr。\n\n要求所有船只保持2英里的安全距离。\n\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.05,
+                    33,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Israel",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  Notice to mariners 90/2018 (19 July, 2018)\nSubject: M/V \"Nor-Naomi\" conducting under water survey.\nCharts affected: survey of Israel chart No 1'\nB A chart 2634\n\nThis is to advise all mariners that M/V \"Nor Naomi\" will be engaged with under water operations from 20th July 2018 till 30th July 2018.\n\nV/L will operate close to a line pass from position 33°00' N    034°03' E and position 31°44' N   034°18'E\n\n\n\nAll vessels are requested to keep clear distance of 1 mile from  M/V Nor Naomi 中文  “海员通告90/2018（2018年7月19日）\n主题：M / V“”Nor-Naomi“”根据水质调查进行。\n受影响的图表：以色列调查图表1号\nB图表2634\n\n这是为了告知所有船员，从2018年7月20日到2018年7月30日，M / V“”Nor Naomi“”将从事水下作业。\n\nV / L将在33°00'N 034°03'E位置和31°44'N 034°18'E位置附近线路运行\n\n \n\n要求所有船只与M / V Nor Naomi保持1英里的距离“\n\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45995,
+                    45.06548333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Croatia",
+                "styleUrl": "#m_elane-point",
+                "styleHash": "47e91d65",
+                "styleMapHash": {
+                    "normal": "#s_elane-point",
+                    "highlight": "#s_elane-point_hl"
+                },
+                "icon": "http://p1t.co.uk/tactique/media/point.png",
+                "description": "EN  ZCZC QA42\n132240 UTC JUL\n\nSPLIT RADIO\n\nNAV WNG NR 218/18\n\nN-ERN ADRIATIC-ISTRA-CHART: 100-15, 100-16\n\nLIGHTED WAVEGRAPH STATION IN 45 03.929'N-013 27.597'E, REMOVED.\n\nNNNN中文  ZCZC QA42\n132240 UTC JUL\n\n拆分收音机\n\n导航 WNG NR 218/18\n\nn-ISTRA-图: 100-15, 100-16\n\n点燃的 WAVEGRAPH 站在 45 03.929 ' N-013 27.597 ' E, 删除。\n\nNNNN\n\t\t\t"
+            }
+        }
+    ]
+}

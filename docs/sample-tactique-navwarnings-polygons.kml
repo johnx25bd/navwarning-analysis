@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>HYDROARC 142/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>NORWEGIAN SEA.<br />
+      BARENTS SEA.<br />
+      NORWAY.<br />
+      DNC 22.<br />
+      SURVEY OPERATIONS 29 JUL UNTIL FURTHER NOTICE<br />
+      BY M/V HARRIER EXPLORER TOWING 6000 METER CABLE<br />
+      IN AREA BOUND BY<br />
+      71-41.5N 21-10.9E, 72-17.2N 22-50.4E,<br />
+      72-05.1N 24-10.7E, 71-28.4N 24-31.9E,<br />
+      71-23.5N 21-21.9E.<br />
+      FIVE MILE BERTH REQUESTED.//<br /><br />Authority: NAVAREA XIX 90/18 261830Z JUL 18."<br /><br />中文<br />挪威海。结果
+      巴伦支海。结果
+      挪威结果
+      DNC 22.点击
+      IN PROGRESS调查作业，直至另行通知结果
+      BY M / V RAMFORM ATLAS拖带16六里屯长电缆点击
+      在区域受其约束结果
+      72-22N 024-46E，71-09N 022-52E，点击
+      70-52N 021-33E，70-32N 019-00E，点击
+      72-05N 021-02E，72-06N 022-03E，点击
+      72-23N 022-28E，72-22N 024-46E。结果
+      敬而远之REQUESTED .//搜索结果机关：NAVAREA XIX一十八分之八十三031828Z JUL 18.搜索结果，日期：032249Z 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"
+      </description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROARC 142/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;NORWEGIAN SEA.&lt;br&gt; BARENTS SEA.&lt;br&gt; NORWAY.&lt;br&gt; DNC 22.&lt;br&gt; SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE&lt;br&gt; BY M/V RAMFORM ATLAS TOWING 16 SIX MILE LONG CABLES&lt;br&gt; IN AREA BOUND BY&lt;br&gt;
+            72-22N 024-46E, 71-09N 022-52E,&lt;br&gt; 70-52N 021-33E, 70-32N 019-00E,&lt;br&gt; 72-05N 021-02E, 72-06N 022-03E,&lt;br&gt; 72-23N 022-28E, 72-22N 024-46E.&lt;br&gt; WIDE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: NAVAREA XIX 83/18
+            031828Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 032249Z JUL 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>24.766667,72.366667,0 22.866667,71.15,0 21.55,70.866667,0 19,70.533334,0 21.033334,72.083334,0 22.05,72.1,0 22.466667,72.383334,0 24.766667,72.366667,0 24.766667,72.366667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROARC 165/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;NORWEGIAN SEA.&lt;br&gt; BARENTS SEA.&lt;br&gt; NORWAY.&lt;br&gt; DNC 22.&lt;br&gt; SURVEY OPERATIONS 29 JUL UNTIL FURTHER NOTICE&lt;br&gt; BY M/V HARRIER EXPLORER TOWING 6000 METER CABLE&lt;br&gt; IN AREA BOUND BY&lt;br&gt;
+        71-41.5N 21-10.9E, 72-17.2N 22-50.4E,&lt;br&gt; 72-05.1N 24-10.7E, 71-28.4N 24-31.9E,&lt;br&gt; 71-23.5N 21-21.9E.&lt;br&gt; FIVE MILE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: NAVAREA XIX 90/18 261830Z JUL
+        18.&lt;br&gt;&lt;br&gt;Date: 261902Z JUL 18"<br /><br />中文<br />挪威海。结果
+        巴伦支海。结果
+        挪威结果
+        DNC 22.点击
+        调查工作7月29日，直至另行通知结果
+        BY M / V HARRIER EXPLORER拖带6000米长的电缆点击
+        在区域受其约束结果
+        71-41.5N 21-10.9E，72-17.2N 22-50.4E，点击
+        72-05.1N 24-10.7E，71-28.4N 24-31.9E，点击
+        71-23.5N 21-21.9E。结果
+        五英里泊位REQUESTED .//搜索结果机关：NAVAREA XIX十八分之九十零261830Z JUL 18.搜索结果，日期：261902Z 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROARC 165/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;NORWEGIAN SEA.&lt;br&gt; BARENTS SEA.&lt;br&gt; NORWAY.&lt;br&gt; DNC 22.&lt;br&gt; SURVEY OPERATIONS 29 JUL UNTIL FURTHER NOTICE&lt;br&gt; BY M/V HARRIER EXPLORER TOWING 6000 METER CABLE&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 71-41.5N
+            21-10.9E, 72-17.2N 22-50.4E,&lt;br&gt; 72-05.1N 24-10.7E, 71-28.4N 24-31.9E,&lt;br&gt; 71-23.5N 21-21.9E.&lt;br&gt; FIVE MILE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: NAVAREA XIX 90/18 261830Z JUL 18.&lt;br&gt;&lt;br&gt;Date:
+            261902Z JUL 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>21.181667,71.691667,0 22.84,72.286667,0 24.178334,72.085,0 24.531667,71.473334,0 21.365,71.391667,0 21.181667,71.691667,0 21.181667,71.691667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 1437/17 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;IRISH SEA.&lt;br&gt; ISLE OF MAN.&lt;br&gt; DNC 20.&lt;br&gt; UNDERWATER OPERATIONS IN PROGRESS UNTIL &lt;br&gt; FURTHER NOTICE BY M/V NORMAND PACIFIC &lt;br&gt; WITH SUBMERSIBLE ALONG TRACKLINE JOINING&lt;br&gt; 53-57.0N
+        005-05.0W, 53-54.8N 005-03.6W,&lt;br&gt; 53-54.7N 004-58.0W.&lt;br&gt; WIDE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: MODUK 109/17 060700Z MAY 17.&lt;br&gt;&lt;br&gt;Date: 060709Z MAY 17"<br /><br />中文<br />爱尔兰海。结果
+曼岛。结果
+DNC 20.点击
+水下作业IN进度，直至结果
+另行通知BY M / V NORMAND PACIFIC结果
+用潜水ALONG TRACKLINE JOINING结果
+53-57.0N 005-05.0W，53-54.8N 005-03.6W，点击
+53-54.7N 004-58.0W。结果
+敬而远之请求的.//搜索结果管理局：MODUK一十七分之一百零九060700Z 5月17日搜索结果日期：060709Z 5月17日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 1437/17 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;IRISH SEA.&lt;br&gt; ISLE OF MAN.&lt;br&gt; DNC 20.&lt;br&gt; UNDERWATER OPERATIONS IN PROGRESS UNTIL &lt;br&gt; FURTHER NOTICE BY M/V NORMAND PACIFIC &lt;br&gt; WITH SUBMERSIBLE ALONG TRACKLINE JOINING&lt;br&gt; 53-57.0N 005-05.0W,
+            53-54.8N 005-03.6W,&lt;br&gt; 53-54.7N 004-58.0W.&lt;br&gt; WIDE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: MODUK 109/17 060700Z MAY 17.&lt;br&gt;&lt;br&gt;Date: 060709Z MAY 17</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-5.083334,53.95,0 -5.06,53.913334,0 -4.966667,53.911667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 4196/17 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;IONIAN SEA.&lt;br&gt; DNC 09.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0500Z TO 2100Z DAILY&lt;br&gt; MONDAY THRU THURSDAY AND 0500Z TO 1300Z&lt;br&gt; FRIDAYS 01 JAN THRU 31 DEC 18 EXCEPT HOLIDAYS&lt;br&gt; IN AREA
+        BOUND BY&lt;br&gt; 37-48.00N 021-05.00E, 37-31.83N 021-08.00E,&lt;br&gt; 37-31.00N 021-20.00E, 37-48.00N 021-17.00E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 01 JAN 19.//&lt;br&gt;&lt;br&gt;Authority: GREEK NAVTEX KERKYRA 245/17 191340Z DEC
+        17.&lt;br&gt;&lt;br&gt;Date: 270454Z DEC 17&lt;br&gt;Cancel: 01000000 Jan 19"<br /><br />中文<br />爱奥尼亚海。结果
+DNC 09。 结果
+1.危险操作0500Z TO 2100Z每日点击
+   周一至周四和0500Z TO 1300Z结果
+   FRIDAYS 01一月THRU 18年12月31日节假日除外结果
+   在区域受其约束结果
+   37-48.00N 021-05.00E，37-31.83N 021-08.00E，点击
+   37-31.00N 021-20.00E，37-48.00N 021-17.00E。结果
+2.取消味精01一月19.//搜索结果管理局：希腊NAVTEX KERKYRA一十七分之二百四十五191340Z DEC 17.搜索结果日期：270454Z 12月17日点击取消：01000000 1月19日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div></description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 4196/17 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;IONIAN SEA.&lt;br&gt; DNC 09.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0500Z TO 2100Z DAILY&lt;br&gt; MONDAY THRU THURSDAY AND 0500Z TO 1300Z&lt;br&gt; FRIDAYS 01 JAN THRU 31 DEC 18 EXCEPT HOLIDAYS&lt;br&gt; IN AREA BOUND
+            BY&lt;br&gt; 37-48.00N 021-05.00E, 37-31.83N 021-08.00E,&lt;br&gt; 37-31.00N 021-20.00E, 37-48.00N 021-17.00E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 01 JAN 19.//&lt;br&gt;&lt;br&gt;Authority: GREEK NAVTEX KERKYRA 245/17 191340Z DEC
+            17.&lt;br&gt;&lt;br&gt;Date: 270454Z DEC 17&lt;br&gt;Cancel: 01000000 Jan 19</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>21.083334,37.8,0 21.133334,37.5305,0 21.333334,37.516667,0 21.283334,37.8,0 21.083334,37.8,0 21.083334,37.8,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 4244/17 [2 of 3][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;AEGEAN SEA.&lt;br&gt; DNC 09.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0530Z TO 1230Z DAILY&lt;br&gt; 01 JAN THRU 31 DEC 18 EXCEPT FRIDAYS, SATURDAYS,&lt;br&gt; SUNDAYS AND HOLIDAYS IN AREAS BOUND
+        BY:&lt;/B&gt;&lt;br&gt; A. 40-13.50N 022-58.00E, 40-20.50N 023-14.50E,&lt;br&gt; 40-16.25N 023-31.50E, 40-04.50N 023-23.00E.&lt;B&gt;&lt;br&gt; B. 40-12.50N 023-19.50E, 40-16.00N 023-23.00E,&lt;br&gt; 40-12.83N 023-26.00E, 40-09.67N
+        023-24.00E,&lt;br&gt; 40-09.50N 023-24.00E.&lt;/B&gt;&lt;br&gt; C. 40-23.00N 023-04.75E, 40-20.50N 023-14.50E,&lt;br&gt; 40-13.50N 022-58.00E.&lt;br&gt; 2. CANCEL THIS MSG 311330Z DEC 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 1014/17 292128Z
+        DEC 17.&lt;br&gt;&lt;br&gt;Date: 300104Z DEC 17&lt;br&gt;Cancel: 31133000 Dec 18"<br /><br />中文<br />爱琴海。结果
+DNC 09。 结果
+1.危险操作0530Z TO 1230Z每日点击
+   01一月THRU 18年12月31日周五除外，星期六，点击
+   星期日及IN地区假期BOUND BY：结果
+   A. 40-13.50N 022-58.00E，40-20.50N 023-14.50E，点击
+      40-16.25N 023-31.50E，40-04.50N 023-23.00E。结果
+   B. 40-12.50N 023-19.50E，40-16.00N 023-23.00E，点击
+      40-12.83N 023-26.00E，40-09.67N 023-24.00E，点击
+      40-09.50N 023-24.00E。结果
+   C. 40-23.00N 023-04.75E，40-20.50N 023-14.50E，点击
+      40-13.50N 022-58.00E。结果
+2.取消味精311330Z DEC 18.//搜索结果管理局：NAVAREA III十七分之一千零十四292128Z DEC 17.搜索结果日期：300104Z 12月17日点击取消：31133000 12月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div></description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 4244/17 [2 of 3][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;AEGEAN SEA.&lt;br&gt; DNC 09.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0530Z TO 1230Z DAILY&lt;br&gt; 01 JAN THRU 31 DEC 18 EXCEPT FRIDAYS, SATURDAYS,&lt;br&gt; SUNDAYS AND HOLIDAYS IN AREAS BOUND BY:&lt;/B&gt;&lt;br&gt;
+            A. 40-13.50N 022-58.00E, 40-20.50N 023-14.50E,&lt;br&gt; 40-16.25N 023-31.50E, 40-04.50N 023-23.00E.&lt;B&gt;&lt;br&gt; B. 40-12.50N 023-19.50E, 40-16.00N 023-23.00E,&lt;br&gt; 40-12.83N 023-26.00E, 40-09.67N 023-24.00E,&lt;br&gt; 40-09.50N
+            023-24.00E.&lt;/B&gt;&lt;br&gt; C. 40-23.00N 023-04.75E, 40-20.50N 023-14.50E,&lt;br&gt; 40-13.50N 022-58.00E.&lt;br&gt; 2. CANCEL THIS MSG 311330Z DEC 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 1014/17 292128Z DEC 17.&lt;br&gt;&lt;br&gt;Date:
+            300104Z DEC 17&lt;br&gt;Cancel: 31133000 Dec 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>23.325,40.208334,0 23.383334,40.266667,0 23.433334,40.213834,0 23.4,40.161167,0 23.4,40.158334,0 23.325,40.208334,0 23.325,40.208334,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 4262/17 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;AEGEAN SEA.&lt;br&gt; DNC 09.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0500Z TO 1600Z DAILY&lt;br&gt; 02 JAN THRU 20, 24 THRU 30 APR, 02 THRU 18,&lt;br&gt; 21 MAY THRU 13, 18 JUN THRU 17, 27 THRU 29,&lt;br&gt; 31 AUG
+        THRU 26, 30 OCT THRU 31 DEC 18&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 39-00N 025-10E, 39-20N 024-58E,&lt;br&gt; 39-14N 024-40E, 38-54N 024-52E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311700Z DEC 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 1011/17
+        311218Z DEC 17.&lt;br&gt;&lt;br&gt;Date: 311218Z DEC 17&lt;br&gt;Cancel: 31170000 Dec 18"<br /><br />中文<br />爱琴海。结果
+DNC 09。 结果
+1.危险操作0500Z TO 1600Z每日点击
+   02一月THRU 20,24 THRU 02年4月30日18 THRU，结果
+   5月21日THRU 13 6月18日THRU 17,27 THRU 29，结果
+   8月31日至26，10月30日THRU 18年12月31日搜索
+   在区域受其约束结果
+   39-00N 025-10E，39-20N 024-58E，点击
+   39-14N 024-40E，38-54N 024-52E。结果
+2.取消味精311700Z DEC 18.//搜索结果管理局：NAVAREA III一十七分之一千〇十一311218Z DEC 17.搜索结果日期：311218Z 12月17日点击取消：31170000 12月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div></description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 4262/17 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;AEGEAN SEA.&lt;br&gt; DNC 09.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0500Z TO 1600Z DAILY&lt;br&gt; 02 JAN THRU 20, 24 THRU 30 APR, 02 THRU 18,&lt;br&gt; 21 MAY THRU 13, 18 JUN THRU 17, 27 THRU 29,&lt;br&gt; 31 AUG THRU
+            26, 30 OCT THRU 31 DEC 18&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 39-00N 025-10E, 39-20N 024-58E,&lt;br&gt; 39-14N 024-40E, 38-54N 024-52E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311700Z DEC 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 1011/17
+            311218Z DEC 17.&lt;br&gt;&lt;br&gt;Date: 311218Z DEC 17&lt;br&gt;Cancel: 31170000 Dec 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>25.166667,39,0 24.966667,39.333334,0 24.666667,39.233334,0 24.866667,38.9,0 25.166667,39,0 25.166667,39,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 1437/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;WESTERN SOUTH ATLANTIC. &lt;br&gt; BRAZIL-EAST COAST. &lt;br&gt; DNC 01.&lt;/B&gt; &lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS 09 MAY THRU 30 SEP BY &lt;br&gt; M/V RAMFORM TETHYS TOWING 16 8100 METER &lt;br&gt; LONG CABLES IN AREA
+        BOUND BY &lt;br&gt; 10-52.05S 035-08.36W, 11-10.44S 035-03.60W,&lt;br&gt; 11-53.92S 035-41.84W, 11-30.75S 036-24.94W,&lt;br&gt; 11-16.14S 036-10.35W, 10-52.06S 036-24.99W,&lt;br&gt; 10-51.19S 036-23.93W, 10-49.33S 036-21.66W,&lt;br&gt; 10-45.92S
+        036-20.23W, 10-44.81S 036-19.11W,&lt;br&gt; 10-43.82S 036-16.61W, 10-41.19S 036-13.31W,&lt;br&gt; 10-38.03S 036-09.29W, 10-36.54S 036-07.32W,&lt;br&gt; 10-32.81S 036-03.71W, 10-29.61S 036-01.53W,&lt;br&gt; 10-28.10S 036-00.46W, 10-26.47S
+        035-56.29W.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt; &lt;br&gt; 2. CANCEL THIS MSG 01 OCT 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA V COASTAL E 352/18 080254Z MAY 18.&lt;br&gt;&lt;br&gt;Date: 080713Z MAY 18&lt;br&gt;Cancel: 01000000 Oct 18"<br /><br />中文<br />南大西洋西部。点击
+巴西东海岸。点击
+DNC 01。 结果
+1.调查作业05月09日THRU 30 9 BY，点击
+   M / V RAMFORM TETHYS拖带16 8100 METER，点击
+   长电缆区域受其约束结果
+   10-52.05S 035-08.36W，11-10.44S 035-03.60W，点击
+   11-53.92S 035-41.84W，11-30.75S 036-24.94W，点击
+   11-16.14S 036-10.35W，10-52.06S 036-24.99W，点击
+   10-51.19S 036-23.93W，10-49.33S 036-21.66W，点击
+   10-45.92S 036-20.23W，10-44.81S 036-19.11W，点击
+   10-43.82S 036-16.61W，10-41.19S 036-13.31W，点击
+   10-38.03S 036-09.29W，10-36.54S 036-07.32W，点击
+   10-32.81S 036-03.71W，10-29.61S 036-01.53W，点击
+   10-28.10S 036-00.46W，10-26.47S 035-56.29W。结果
+   敬而远之REQUESTED。结果
+2.取消味精10月01日18.//搜索结果管理局：NAVAREA V沿海Ë十八分之三百五十二080254Z 5月18日搜索结果日期：080713Z 5月18日点击取消：01000000 10月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 1437/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;WESTERN SOUTH ATLANTIC. &lt;br&gt; BRAZIL-EAST COAST. &lt;br&gt; DNC 01.&lt;/B&gt; &lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS 09 MAY THRU 30 SEP BY &lt;br&gt; M/V RAMFORM TETHYS TOWING 16 8100 METER &lt;br&gt; LONG CABLES IN AREA BOUND
+            BY &lt;br&gt; 10-52.05S 035-08.36W, 11-10.44S 035-03.60W,&lt;br&gt; 11-53.92S 035-41.84W, 11-30.75S 036-24.94W,&lt;br&gt; 11-16.14S 036-10.35W, 10-52.06S 036-24.99W,&lt;br&gt; 10-51.19S 036-23.93W, 10-49.33S 036-21.66W,&lt;br&gt; 10-45.92S
+            036-20.23W, 10-44.81S 036-19.11W,&lt;br&gt; 10-43.82S 036-16.61W, 10-41.19S 036-13.31W,&lt;br&gt; 10-38.03S 036-09.29W, 10-36.54S 036-07.32W,&lt;br&gt; 10-32.81S 036-03.71W, 10-29.61S 036-01.53W,&lt;br&gt; 10-28.10S 036-00.46W, 10-26.47S
+            035-56.29W.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt; &lt;br&gt; 2. CANCEL THIS MSG 01 OCT 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA V COASTAL E 352/18 080254Z MAY 18.&lt;br&gt;&lt;br&gt;Date: 080713Z MAY 18&lt;br&gt;Cancel: 01000000 Oct 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-35.139334,-10.8675,0 -35.06,-11.174,0 -35.697334,-11.898666,0 -36.415667,-11.5125,0 -36.1725,-11.269,0 -36.4165,-10.867666,0 -36.398834,-10.853166,0 -36.361,-10.822166,0 -36.337167,-10.765333,0 -36.3185,-10.746833,0
+            -36.276834,-10.730333,0 -36.221834,-10.6865,0 -36.154834,-10.633833,0 -36.122,-10.609,0 -36.061834,-10.546833,0 -36.0255,-10.4935,0 -36.007667,-10.468333,0 -35.938167,-10.441166,0 -35.139334,-10.8675,0 -35.139334,-10.8675,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2033/18 [1 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;BLACK SEA.&lt;br&gt; TURKEY.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. PIPELINE OPERATIONS IN PROGRESS UNTIL 09 DEC&lt;br&gt; BY M/V SIEM SPEARFISH AND M/V PIONEERING SPIRIT:&lt;/B&gt;&lt;B&gt;&lt;br&gt; A. WITHIN AREA
+        BOUND BY&lt;br&gt; 41-39.28N 028-07.25E, 41-38.77N 028-09.95E,&lt;br&gt; 41-45.40N 028-34.85E, 41-49.50N 028-57.15E,&lt;br&gt; 42-01.10N 029-21.85E, 42-49.05N 030-47.95E,&lt;br&gt; 42-49.43N 030-51.90E, 42-50.20N 030-52.20E,&lt;br&gt; 42-50.52N
+        030-47.15E, 42-00.40N 029-17.20E,&lt;br&gt; 41-48.83N 028-40.15E, 41-39.22N 028-10.00E,&lt;br&gt; 41-39.73N 028-06.97E.&lt;/B&gt;&lt;br&gt; B. ALONG TRACKLINE JOINING:&lt;br&gt; 43-24.72N 036-14.52E, 43-17.18N 035-18.30E,&lt;br&gt; 43-10.42N
+        034-30.50E, 43-06.63N 034-01.03E,&lt;br&gt; 43-06.05N 033-53.62E, 43-05.67N 033-42.42E,&lt;br&gt; 42-58.07N 032-09.67E, 42-54.77N 031-36.42E, &lt;br&gt; 42-50.18N 030-52.17E.&lt;br&gt; WIDE BERTH REQUESTED.&lt;br&gt; 2. CANCEL HYDROLANT
+        1682/18.//&lt;br&gt;&lt;br&gt;Authority: TURKEY 102/18 221721Z JUN 18; TURKEY 103/18 221721Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 221721Z JUN 18"<br /><br />中文<br /> BLACK SEA。结果
+土耳其。结果
+DNC 10。 结果
+1. IN PROGRESS管道操作，直到09年12月点击
+   BY M / V SIEM SPEARFISH和M / V开拓精神： 结果
+   A.以内的地区受其约束结果
+      41-39.28N 028-07.25E，41-38.77N 028-09.95E，点击
+      41-45.40N 028-34.85E，41-49.50N 028-57.15E，点击
+      42-01.10N 029-21.85E，42-49.05N 030-47.95E，点击
+      42-49.43N 030-51.90E，42-50.20N 030-52.20E，点击
+      42-50.52N 030-47.15E，42-00.40N 029-17.20E，点击
+      41-48.83N 028-40.15E，41-39.22N 028-10.00E，点击
+      41-39.73N 028-06.97E。结果
+   （2）随着TRACKLINE加盟者：点击
+      43-24.72N 036-14.52E，43-17.18N 035-18.30E，点击
+      43-10.42N 034-30.50E，43-06.63N 034-01.03E，点击
+      43-06.05N 033-53.62E，43-05.67N 033-42.42E，点击
+      42-58.07N 032-09.67E，42-54.77N 031-36.42E，点击
+      42-50.18N 030-52.17E。结果
+   敬而远之提出要求。结果
+2.取消HYDROLANT 1682年至1618年.//搜索结果管理局：土耳其18分之102221721Z 6月18日;土耳其十八分之一百零三221721Z JUN 18.搜索结果日期：221721Z 6月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2033/18 [1 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;BLACK SEA.&lt;br&gt; TURKEY.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. PIPELINE OPERATIONS IN PROGRESS UNTIL 09 DEC&lt;br&gt; BY M/V SIEM SPEARFISH AND M/V PIONEERING SPIRIT:&lt;/B&gt;&lt;B&gt;&lt;br&gt; A. WITHIN AREA BOUND
+            BY&lt;br&gt; 41-39.28N 028-07.25E, 41-38.77N 028-09.95E,&lt;br&gt; 41-45.40N 028-34.85E, 41-49.50N 028-57.15E,&lt;br&gt; 42-01.10N 029-21.85E, 42-49.05N 030-47.95E,&lt;br&gt; 42-49.43N 030-51.90E, 42-50.20N 030-52.20E,&lt;br&gt; 42-50.52N 030-47.15E,
+            42-00.40N 029-17.20E,&lt;br&gt; 41-48.83N 028-40.15E, 41-39.22N 028-10.00E,&lt;br&gt; 41-39.73N 028-06.97E.&lt;/B&gt;&lt;br&gt; B. ALONG TRACKLINE JOINING:&lt;br&gt; 43-24.72N 036-14.52E, 43-17.18N 035-18.30E,&lt;br&gt; 43-10.42N 034-30.50E,
+            43-06.63N 034-01.03E,&lt;br&gt; 43-06.05N 033-53.62E, 43-05.67N 033-42.42E,&lt;br&gt; 42-58.07N 032-09.67E, 42-54.77N 031-36.42E, &lt;br&gt; 42-50.18N 030-52.17E.&lt;br&gt; WIDE BERTH REQUESTED.&lt;br&gt; 2. CANCEL HYDROLANT
+            1682/18.//&lt;br&gt;&lt;br&gt;Authority: TURKEY 102/18 221721Z JUN 18; TURKEY 103/18 221721Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 221721Z JUN 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>28.120834,41.654667,0 28.165834,41.646167,0 28.580834,41.756667,0 28.9525,41.825,0 29.364167,42.018334,0 30.799167,42.8175,0 30.865,42.823834,0 30.87,42.836667,0 30.785834,42.842,0 29.286667,42.006667,0 28.669167,41.813834,0
+            28.166667,41.653667,0 28.116167,41.662167,0 28.120834,41.654667,0 28.120834,41.654667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2115/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;BLACK SEA.&lt;br&gt; UKRAINE.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY AND MISSILE OPERATIONS 0500Z TO 1700Z &lt;br&gt; DAILY 02 THRU 31 JUL EXCEPT SUNDAYS&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 44-29.7N
+        032-19.6E, 44-38.2N 032-53.0E,&lt;br&gt; 44-27.8N 033-06.6E, 44-05.4N 032-48.4E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311800Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 532/18 291200Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 291249Z JUN
+        18&lt;br&gt;Cancel: 31180000 Jul 18"<br /><br />中文<br /> BLACK SEA。结果
+乌克兰。结果
+DNC 10。 结果
+1.枪炮和导弹作战0500Z TO 1700Z结果
+   DAILY 02 THRU 7月31日（周日除外）点击
+   在区域受其约束结果
+   44-29.7N 032-19.6E，44-38.2N 032-53.0E，点击
+   44-27.8N 033-06.6E，44-05.4N 032-48.4E。结果
+2.取消此MSG 311800Z JUL 18.//搜索结果机关：NAVAREA III一十八分之五百三十二291200Z JUN 18.搜索结果，日期：291249Z 6月18日，点击取消：31180000 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2115/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;BLACK SEA.&lt;br&gt; UKRAINE.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY AND MISSILE OPERATIONS 0500Z TO 1700Z &lt;br&gt; DAILY 02 THRU 31 JUL EXCEPT SUNDAYS&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 44-29.7N 032-19.6E,
+            44-38.2N 032-53.0E,&lt;br&gt; 44-27.8N 033-06.6E, 44-05.4N 032-48.4E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311800Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 532/18 291200Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 291249Z JUN 18&lt;br&gt;Cancel:
+            31180000 Jul 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>32.326667,44.495,0 32.883334,44.636667,0 33.11,44.463334,0 32.806667,44.09,0 32.326667,44.495,0 32.326667,44.495,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2195/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;NORTH SEA.&lt;br&gt; ENGLAND.&lt;br&gt; DNC 20.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE&lt;br&gt; BY CABLESHIP CONNECTOR AND M/V LANGE WRAPPER&lt;br&gt; IN AREA BOUND BY&lt;br&gt;
+        53-31.9N 000-02.2E, 53-47.5N 001-38.6E,&lt;br&gt; 53-45.3N 001-40.2E, 53-25.5N 000-13.6E.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL HYDROLANT 1652/18.//&lt;br&gt;&lt;br&gt;Authority: WZ 776/18 061240Z JUL
+        18.&lt;br&gt;&lt;br&gt;Date: 061332Z JUL 18"<br /><br />中文<br />北海。结果
+英格兰。结果
+DNC 20。 结果
+1. IN PROGRESS缆作业，直至另行通知结果
+   BY CABLESHIP连接器和M / V LANGE WRAPPER结果
+   在区域受其约束结果
+   53-31.9N 000-02.2E，53-47.5N 001-38.6E，点击
+   53-45.3N 001-40.2E，53-25.5N 000-13.6E。结果
+   敬而远之REQUESTED。结果
+2. CANCEL HYDROLANT18分之1652.//搜索结果机关：WZ一十八分之七百七十六061240Z JUL 18.搜索结果，日期：061332Z 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2195/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;NORTH SEA.&lt;br&gt; ENGLAND.&lt;br&gt; DNC 20.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE&lt;br&gt; BY CABLESHIP CONNECTOR AND M/V LANGE WRAPPER&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 53-31.9N
+            000-02.2E, 53-47.5N 001-38.6E,&lt;br&gt; 53-45.3N 001-40.2E, 53-25.5N 000-13.6E.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL HYDROLANT 1652/18.//&lt;br&gt;&lt;br&gt;Authority: WZ 776/18 061240Z JUL 18.&lt;br&gt;&lt;br&gt;Date:
+            061332Z JUL 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>0.036667,53.531667,0 1.643334,53.791667,0 1.67,53.755,0 0.226667,53.425,0 0.036667,53.531667,0 0.036667,53.531667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2226/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;NORTH SEA.&lt;br&gt; ENGLAND.&lt;br&gt; DNC 20.&lt;br&gt; CHART 37166.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. UNEXPLODED ORDNANCE IN AREA BOUND BY&lt;br&gt; 51-59.4N 51-59.9N AND 001-25.9E 001-26.9E.&lt;/B&gt;&lt;br&gt; 2. CANCEL
+        HYDROLANT 1759/18.//&lt;br&gt;&lt;br&gt;Authority: WZ 788/18 090945Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 091019Z JUL 18"<br /><br />中文<br />北海。结果
+英格兰。结果
+DNC 20.点击
+图表37166。 结果
+1.未爆弹药区受其约束结果
+   51-59.4N 51-59.9N AND 001-25.9E 001-26.9E。结果
+2. CANCEL HYDROLANT18分之1759.//搜索结果机关：WZ一十八分之七百八十八090945Z JUL 18.搜索结果，日期：091019Z 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2226/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;NORTH SEA.&lt;br&gt; ENGLAND.&lt;br&gt; DNC 20.&lt;br&gt; CHART 37166.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. UNEXPLODED ORDNANCE IN AREA BOUND BY&lt;br&gt; 51-59.4N 51-59.9N AND 001-25.9E 001-26.9E.&lt;/B&gt;&lt;br&gt; 2. CANCEL HYDROLANT
+            1759/18.//&lt;br&gt;&lt;br&gt;Authority: WZ 788/18 090945Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 091019Z JUL 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>1.448334,51.99,0 1.431667,51.99,0 1.431667,51.998334,0 1.448334,51.998334,0 1.448334,51.99,0 1.448334,51.99,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2350/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;NORTH SEA.&lt;br&gt; SCOTLAND.&lt;br&gt; DNC 20.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS IN PROGRESS UNTIL 16 AUB&lt;br&gt; BY M/V SANCO SWIFT TOWING 12 9000 METER LONG&lt;br&gt; CABLES IN AREA BETWEEN&lt;br&gt; 58-42N
+        58-22N AND 002-47W 000-54W.&lt;br&gt; SIX MILE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL HYDROLANT 2109/18.&lt;br&gt; 3. CANCEL THIS MSG 17 AUG 18.//&lt;br&gt;&lt;br&gt;Authority: WZ 828/18 192200Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 192228Z JUL
+        18&lt;br&gt;Cancel: 17000000 Aug 18"<br /><br />中文<br />北海。结果
+苏格兰。结果
+DNC 20。 结果
+1. IN PROGRESS调查操作，直到16 AUB结果
+   BY M / V SANCO SWIFT拖带12 9000米长，点击
+   电缆之间的点击区域
+   58-42N 58-22N和002-47W 000-54W。结果
+   六英泊位REQUESTED。结果
+2.取消HYDROLANT一十八分之二千一百零九。结果
+3.取消这个味精08月17 18.//搜索结果管理局：WZ一十八分之八百二十八192200Z JUL 18.搜索结果日期：192228Z 7月18日点击取消：17000000 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2350/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;NORTH SEA.&lt;br&gt; SCOTLAND.&lt;br&gt; DNC 20.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS IN PROGRESS UNTIL 16 AUB&lt;br&gt; BY M/V SANCO SWIFT TOWING 12 9000 METER LONG&lt;br&gt; CABLES IN AREA BETWEEN&lt;br&gt; 58-42N
+            58-22N AND 002-47W 000-54W.&lt;br&gt; SIX MILE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL HYDROLANT 2109/18.&lt;br&gt; 3. CANCEL THIS MSG 17 AUG 18.//&lt;br&gt;&lt;br&gt;Authority: WZ 828/18 192200Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 192228Z JUL
+            18&lt;br&gt;Cancel: 17000000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-0.9,58.7,0 -2.783334,58.7,0 -2.783334,58.366667,0 -0.9,58.366667,0 -0.9,58.7,0 -0.9,58.7,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2405/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;WESTERN MEDITERRANEAN SEA. &lt;br&gt; FRANCE. &lt;br&gt; DNC 08. &lt;br&gt; EIGHT METER S/V BALOO, WHITE AND GREEN HULL, &lt;br&gt; ONE PERSON ON BOARD, OVERDUE GRUISSAN &lt;br&gt; (43-06-28N 003-05-20E) TO BALEARIC ISLANDS
+        &lt;br&gt; (39-30-00N 003-00-00E). VESSELS IN VICINITY &lt;br&gt; REQUESTED TO KEEP A SHARP LOOKOUT, ASSIST IF &lt;br&gt; POSSIBLE. &lt;br&gt; REPORTS TO MRCC LA GARDE,&lt;br&gt; TELEX: 430024,&lt;br&gt; PHONE: 334 9461 1616,&lt;br&gt; FAX: 334 9427
+        1149, &lt;br&gt; E-MAIL: LAGARDE@MRCCFR.EU.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: MRCC LA GARDE 260259Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 260325Z JUL 18"<br /><br />中文<br /> WESTERN地中海。点击
+法国。点击
+DNC 08.点击
+的八个S / V BALOO，白，绿壳，结果
+一个人在船上，逾期格吕桑结果
+（43-06-28N 003-05-20E）TO巴利阿里群岛结果
+（39-30-00N 003-00-00E）。船舶在近处结果
+请求以保持戒备，辅助如果点击
+可能。点击
+报告以MRCC LA GARDE，点击
+TELEX：430024，点击
+电话：334 9461 1616，点击
+传真：334 9427 1149，点击
+E-MAIL：LAGARDE@MRCCFR.EU .//搜索结果机关：MRCC LA GARDE 260259Z JUL 18.搜索结果，日期：260325Z 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2405/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;WESTERN MEDITERRANEAN SEA. &lt;br&gt; FRANCE. &lt;br&gt; DNC 08. &lt;br&gt; EIGHT METER S/V BALOO, WHITE AND GREEN HULL, &lt;br&gt; ONE PERSON ON BOARD, OVERDUE GRUISSAN &lt;br&gt; (43-06-28N 003-05-20E) TO BALEARIC ISLANDS &lt;br&gt;
+            (39-30-00N 003-00-00E). VESSELS IN VICINITY &lt;br&gt; REQUESTED TO KEEP A SHARP LOOKOUT, ASSIST IF &lt;br&gt; POSSIBLE. &lt;br&gt; REPORTS TO MRCC LA GARDE,&lt;br&gt; TELEX: 430024,&lt;br&gt; PHONE: 334 9461 1616,&lt;br&gt; FAX: 334 9427 1149,
+            &lt;br&gt; E-MAIL: LAGARDE@MRCCFR.EU.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: MRCC LA GARDE 260259Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 260325Z JUL 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>3.088889,43.107778,0 3,39.5,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROLANT 2436/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;EASTERN MEDITERRANEAN SEA.&lt;br&gt; LEBANON.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 020400Z TO 020900Z AUG&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 34-15.0N 034-34.0E, 34-10.0N 034-41.3E&lt;br&gt;
+        33-53.0N 034-26.0E, 34-00.0N 034-14.0E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 021000Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 602/18 300923Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 301136Z JUL 18&lt;br&gt;Cancel: 02100000 Aug 18"<br /><br />中文<br />地中海东部。结果
+黎巴嫩点击
+DNC 10。 结果
+1.危险操作020400Z TO 020900Z AUG结果
+   在区域受其约束结果
+   34-15.0N 034-34.0E，34-10.0N 034-41.3E结果
+   33-53.0N 034-26.0E，34-00.0N 034-14.0E。结果
+2.取消味精021000Z AUG 18.//搜索结果管理局：NAVAREA III十八分之六百零二300923Z JUL 18.搜索结果日期：301136Z 7月18日点击取消：02100000 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROLANT 2436/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;EASTERN MEDITERRANEAN SEA.&lt;br&gt; LEBANON.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 020400Z TO 020900Z AUG&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 34-15.0N 034-34.0E, 34-10.0N 034-41.3E&lt;br&gt; 33-53.0N
+            034-26.0E, 34-00.0N 034-14.0E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 021000Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA III 602/18 300923Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 301136Z JUL 18&lt;br&gt;Cancel: 02100000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>34.566667,34.25,0 34.688334,34.166667,0 34.433334,33.883334,0 34.233334,34,0 34.566667,34.25,0 34.566667,34.25,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 1045/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;KAMCHATKA.&lt;br&gt; DNC 24.&lt;br&gt; CHART 96500.&lt;br&gt; NAVIGATION PROHIBITED IN AREA BOUND BY&lt;br&gt; 52-59.40N 158-32.00E, 53-00.45N 158-33.60E,&lt;br&gt; 53-00.45N 158-36.00E, 52-59.40N
+        158-36.00E.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: PETROPAVLOSK 2/18 151200Z MAR 18.&lt;br&gt;&lt;br&gt;Date: 162118Z MAR 18"<br /><br />中文<br />堪察加。结果
+DNC 24.点击
+图表96500.结果
+航行禁止区域受其约束结果
+52-59.40N 158-32.00E，53-00.45N 158-33.60E，点击
+53-00.45N 158-36.00E，52-59.40N 158-36.00E .//搜索结果机关：PETROPAVLOSK 2/18 151200Z MAR 18.搜索结果，日期：162118Z MAR 18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 1045/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;KAMCHATKA.&lt;br&gt; DNC 24.&lt;br&gt; CHART 96500.&lt;br&gt; NAVIGATION PROHIBITED IN AREA BOUND BY&lt;br&gt; 52-59.40N 158-32.00E, 53-00.45N 158-33.60E,&lt;br&gt; 53-00.45N 158-36.00E, 52-59.40N
+            158-36.00E.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: PETROPAVLOSK 2/18 151200Z MAR 18.&lt;br&gt;&lt;br&gt;Date: 162118Z MAR 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>158.533334,52.99,0 158.56,53.0075,0 158.6,53.0075,0 158.6,52.99,0 158.533334,52.99,0 158.533334,52.99,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2346/18 [1 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;ARABIAN SEA.&lt;br&gt; PAKISTAN.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0400Z TO 1700Z DAILY&lt;br&gt; 02 THRU 06, 09 THRU 13, 16 THRU 20, 23 THRU 27 AND&lt;br&gt; 30 AND 31 JUL IN AREAS BOUND
+        BY:&lt;/B&gt;&lt;B&gt;&lt;br&gt; A. 24-19.00N 066-58.00E, 24-00.00N 066-39.00E,&lt;br&gt; 24-11.00N 066-27.00E, 24-24.30N 066-42.00E.&lt;/B&gt;&lt;br&gt; B. 24-16.18N 066-20.50E, 24-22.00N 066-27.00E,&lt;br&gt; 24-16.30N 066-33.00E, 24-10.30N
+        066-27.00E.&lt;br&gt; 2. CANCEL THIS MSG 311800Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA IX 152/18 251225Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 251226Z JUN 18&lt;br&gt;Cancel: 31180000 Jul 18"<br /><br />中文<br />阿拉伯海。结果
+巴基斯坦。结果
+DNC 03。 结果
+1.危险操作0400Z TO 1700Z每日点击
+   02 THRU 06，09 THRU 13,16 THRU 20,23 THRU 27与结果
+   30和31 7 IN地区BOUND BY： 结果
+   A. 24-19.00N 066-58.00E，24-00.00N 066-39.00E，点击
+      24-11.00N 066-27.00E，24-24.30N 066-42.00E。结果
+   B. 24-16.18N 066-20.50E，24-22.00N 066-27.00E，点击
+      24-16.30N 066-33.00E，24-10.30N 066-27.00E。结果
+2.取消此MSG 311800Z JUL 18.//搜索结果机关：NAVAREA IX一十八分之一百五十二251225Z JUN 18.搜索结果，日期：251226Z 6月18日，点击取消：31180000 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2346/18 [1 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;ARABIAN SEA.&lt;br&gt; PAKISTAN.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0400Z TO 1700Z DAILY&lt;br&gt; 02 THRU 06, 09 THRU 13, 16 THRU 20, 23 THRU 27 AND&lt;br&gt; 30 AND 31 JUL IN AREAS BOUND
+            BY:&lt;/B&gt;&lt;B&gt;&lt;br&gt; A. 24-19.00N 066-58.00E, 24-00.00N 066-39.00E,&lt;br&gt; 24-11.00N 066-27.00E, 24-24.30N 066-42.00E.&lt;/B&gt;&lt;br&gt; B. 24-16.18N 066-20.50E, 24-22.00N 066-27.00E,&lt;br&gt; 24-16.30N 066-33.00E, 24-10.30N
+            066-27.00E.&lt;br&gt; 2. CANCEL THIS MSG 311800Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA IX 152/18 251225Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 251226Z JUN 18&lt;br&gt;Cancel: 31180000 Jul 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>66.966667,24.316667,0 66.65,24,0 66.45,24.183334,0 66.7,24.405,0 66.966667,24.316667,0 66.966667,24.316667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2372/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;TAIWAN STRAIT.&lt;br&gt; TAIWAN.&lt;br&gt; DNC 23.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY EXERCISES 2300Z TO 0830Z COMMENCING DAILY&lt;br&gt; 01 THRU 05, 08 THRU 12, 15 THRU 19, 22 THRU 26,&lt;br&gt; 29 AND 30 JUL IN AREA
+        BOUNDED BY&lt;br&gt; 24-48N 119-50E, 24-48N 120-20E,&lt;br&gt; 23-55N 119-27E, 24-10N 119-08E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 310930Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 323/18 271146Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 271302Z
+        JUN 18&lt;br&gt;Cancel: 31093000 Jul 18"<br /><br />中文<br />台湾海峡。结果
+台湾点击
+DNC 23。 结果
+1.重炮锻炼2300Z TO 0830Z开始每日点击
+   01 THRU 05，08至12，15 THRU 19,22 THRU 26，结果
+   29日和7月30日在区域界限BY结果
+   24-48N 119-50E，24-48N 120-20E，点击
+   23-55N 119-27E，24-10N 119-08E。结果
+2.取消此MSG 310930Z JUL 18.//搜索结果机关：NAVAREA XI一十八分之三百二十三271146Z JUN 18.搜索结果，日期：271302Z 6月18日，点击取消：31093000 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2372/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;TAIWAN STRAIT.&lt;br&gt; TAIWAN.&lt;br&gt; DNC 23.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY EXERCISES 2300Z TO 0830Z COMMENCING DAILY&lt;br&gt; 01 THRU 05, 08 THRU 12, 15 THRU 19, 22 THRU 26,&lt;br&gt; 29 AND 30 JUL IN AREA BOUNDED
+            BY&lt;br&gt; 24-48N 119-50E, 24-48N 120-20E,&lt;br&gt; 23-55N 119-27E, 24-10N 119-08E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 310930Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 323/18 271146Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 271302Z JUN
+            18&lt;br&gt;Cancel: 31093000 Jul 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>119.833334,24.8,0 120.333334,24.8,0 119.45,23.916667,0 119.133334,24.166667,0 119.833334,24.8,0 119.833334,24.8,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2407/18 [4 of 6][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;BAY OF BENGAL.&lt;br&gt; BANGLADESH.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 2200Z TO 1700Z COMMENCING DAILY&lt;br&gt; 30 JUN THRU 30 JUL IN AREAS BOUND BY:&lt;/B&gt;&lt;br&gt; A. 21-20.83N
+        090-34.00E, 21-41N 091-14.00E, &lt;br&gt; 21-20.83N 091-28.00E, 21-00N 090-47.83E.&lt;br&gt; B. 20-46N 090-00E, 20-58N 090-17E, &lt;br&gt; 20-40N 090-38E, 20-28N 090-22E.&lt;br&gt; C. 20-07N 090-52E, 20-22N 091-06E, &lt;br&gt; 20-00N 091-36E, 19-44N
+        091-21E.&lt;B&gt;&lt;br&gt; D. 20-22.0N 091-06.0E, 20-46.5N 091-31.0E, &lt;br&gt; 20-24.0N 091-59.0E, 20-00.0N 091-36.0E.&lt;/B&gt;&lt;br&gt; E. 21-18N 089-31E, 21-18N 089-50E, &lt;br&gt; 21-04N 089-54E, 21-04N 089-34E.&lt;br&gt; F. 20-58N 089-34E,
+        20-58N 089-54E, &lt;br&gt; 20-34N 089-54E, 20-34N 089-34E.&lt;br&gt; 2. CANCEL THIS MSG 311800Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA VIII 478/18 291430Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 301044Z JUN 18&lt;br&gt;Cancel: 31180000 Jul 18"<br /><br />中文<br />孟加拉 BAY。结果
+孟加拉国。结果
+DNC 03。 结果
+1.危险操作2200Z TO 1700Z开始每日点击
+   6月30日THRU七月30 IN地区BOUND BY：结果
+   A. 21-20.83N 090-34.00E，21-41N 091-14.00E，点击
+      21-20.83N 091-28.00E，21-00N 090-47.83E。结果
+   B. 20-46N 090-00E，20-58N 090-17E，点击
+      20-40N 090-38E，20-28N 090-22E。结果
+   C. 20-07N 090-52E，20-22N 091-06E，点击
+      20-00N 091-36E，19-44N 091-21E。结果
+   D. 20-22.0N 091-06.0E，20-46.5N 091-31.0E，点击
+      20-24.0N 091-59.0E，20-00.0N 091-36.0E。结果
+   E. 21-18N 089-31E，21-18N 089-50E，点击
+      21-04N 089-54E，21-04N 089-34E。结果
+   F. 20-58N 089-34E，20-58N 089-54E，点击
+      20-34N 089-54E，20-34N 089-34E。结果
+2.取消此MSG 311800Z JUL 18.//搜索结果机关：NAVAREA VIII一十八分之四百七十八291430Z JUN 18.搜索结果，日期：301044Z 6月18日，点击取消：31180000 7月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2407/18 [4 of 6][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;BAY OF BENGAL.&lt;br&gt; BANGLADESH.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 2200Z TO 1700Z COMMENCING DAILY&lt;br&gt; 30 JUN THRU 30 JUL IN AREAS BOUND BY:&lt;/B&gt;&lt;br&gt; A. 21-20.83N 090-34.00E,
+            21-41N 091-14.00E, &lt;br&gt; 21-20.83N 091-28.00E, 21-00N 090-47.83E.&lt;br&gt; B. 20-46N 090-00E, 20-58N 090-17E, &lt;br&gt; 20-40N 090-38E, 20-28N 090-22E.&lt;br&gt; C. 20-07N 090-52E, 20-22N 091-06E, &lt;br&gt; 20-00N 091-36E, 19-44N
+            091-21E.&lt;B&gt;&lt;br&gt; D. 20-22.0N 091-06.0E, 20-46.5N 091-31.0E, &lt;br&gt; 20-24.0N 091-59.0E, 20-00.0N 091-36.0E.&lt;/B&gt;&lt;br&gt; E. 21-18N 089-31E, 21-18N 089-50E, &lt;br&gt; 21-04N 089-54E, 21-04N 089-34E.&lt;br&gt; F. 20-58N 089-34E,
+            20-58N 089-54E, &lt;br&gt; 20-34N 089-54E, 20-34N 089-34E.&lt;br&gt; 2. CANCEL THIS MSG 311800Z JUL 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA VIII 478/18 291430Z JUN 18.&lt;br&gt;&lt;br&gt;Date: 301044Z JUN 18&lt;br&gt;Cancel: 31180000 Jul 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>91.1,20.366667,0 91.516667,20.775,0 91.983334,20.4,0 91.6,20,0 91.1,20.366667,0 91.1,20.366667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2507/18 [3 of 3][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;SEA OF OKHOTSK. &lt;br&gt; SAKHALIN. &lt;br&gt; DNC 24.&lt;/B&gt; &lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS 12 JUL THRU 12 SEP BY &lt;br&gt; M/V DONG FANG KAN TAN IN AREAS BOUND BY:&lt;/B&gt; &lt;br&gt; A. 52-52-12N 143-30-03E,
+        52-59-37N 143-28-06E, &lt;br&gt; 52-59-47N 143-29-41E, 52-52-21N 143-31-38E. &lt;br&gt; B. 52-38-54N 143-34-14E, 52-46-20N 143-32-18E, &lt;br&gt; 52-46-29N 143-33-53E, 52-39-03N 143-35-49E.&lt;B&gt;&lt;br&gt; C. 51-20-01N 143-36-03E, 51-30-41N
+        143-34-19E, &lt;br&gt; 51-30-32N 143-42-22E, 51-20-00N 143-44-01E.&lt;br&gt; ONE MILE BERTH REQUESTED.&lt;/B&gt; &lt;br&gt; 2. CANCEL THIS MSG 13 SEP 18.//&lt;br&gt;&lt;br&gt;Authority: VLADIVOSTOK 166/18 090904Z JUL 18.&lt;br&gt;&lt;br&gt;Date:
+        090941Z JUL 18&lt;br&gt;Cancel: 13000000 Sep 18"<br /><br />中文<br />鄂霍次克海。点击
+萨哈林。点击
+DNC 24。 结果
+1.调查作业7月12日THRU 09月12日BY，点击
+   M / V东方KAN TAN IN地区BOUND BY：结果
+   A. 52-52-12N 143-30-03E，52-59-37N 143-28-06E，点击
+      52-59-47N 143-29-41E，52-52-21N 143-31-38E。点击
+   B. 52-38-54N 143-34-14E，52-46-20N 143-32-18E，点击
+      52-46-29N 143-33-53E，52-39-03N 143-35-49E。结果
+   C. 51-20-01N 143-36-03E，51-30-41N 143-34-19E，点击
+      51-30-32N 143-42-22E，51-20-00N 143-44-01E。结果
+   ONE MILE泊位REQUESTED。结果
+2.取消此MSG 09月13日18.//搜索结果机关：VLADIVOSTOK一十八分之一百六十六090904Z JUL 18.搜索结果，日期：090941Z 7月18日，点击取消：13000000 09月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2507/18 [3 of 3][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;SEA OF OKHOTSK. &lt;br&gt; SAKHALIN. &lt;br&gt; DNC 24.&lt;/B&gt; &lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS 12 JUL THRU 12 SEP BY &lt;br&gt; M/V DONG FANG KAN TAN IN AREAS BOUND BY:&lt;/B&gt; &lt;br&gt; A. 52-52-12N 143-30-03E,
+            52-59-37N 143-28-06E, &lt;br&gt; 52-59-47N 143-29-41E, 52-52-21N 143-31-38E. &lt;br&gt; B. 52-38-54N 143-34-14E, 52-46-20N 143-32-18E, &lt;br&gt; 52-46-29N 143-33-53E, 52-39-03N 143-35-49E.&lt;B&gt;&lt;br&gt; C. 51-20-01N 143-36-03E, 51-30-41N
+            143-34-19E, &lt;br&gt; 51-30-32N 143-42-22E, 51-20-00N 143-44-01E.&lt;br&gt; ONE MILE BERTH REQUESTED.&lt;/B&gt; &lt;br&gt; 2. CANCEL THIS MSG 13 SEP 18.//&lt;br&gt;&lt;br&gt;Authority: VLADIVOSTOK 166/18 090904Z JUL 18.&lt;br&gt;&lt;br&gt;Date:
+            090941Z JUL 18&lt;br&gt;Cancel: 13000000 Sep 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>143.600834,51.333611,0 143.571945,51.511389,0 143.706111,51.508889,0 143.733611,51.333334,0 143.600834,51.333611,0 143.600834,51.333611,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2614/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;JAVA SEA.&lt;br&gt; INDONESIA.&lt;br&gt; DNC 04.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS IN PROGRESS UNTIL 31 AUG&lt;br&gt; BY MV/ ELSA REGENT TOWING FIVE MILE LONG CABLE&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 05-40.6S
+        107-04.0E, 05-47.9S 107-00.9E,&lt;br&gt; 06-01.2S 107-33.4E, 06-05.1S 107-32.0E,&lt;br&gt; 06-07.2S 107-39.3E, 06-11.7S 107-44.2E,&lt;br&gt; 06-09.9S 107-49.5E, 06-10.7S 107-55.4E,&lt;br&gt; 06-13.5S 107-56.0E, 06-17.7S 108-05.1E,&lt;br&gt; 06-19.0S
+        108-08.1E, 06-15.9S 108-10.2E,&lt;br&gt; 06-13.5S 108-08.6E, 06-11.8S 108-10.2E,&lt;br&gt; 06-13.2S 108-14.8E, 06-13.7S 108-25.1E,&lt;br&gt; 06-06.5S 108-25.4E, 06-02.6S 108-18.7E,&lt;br&gt; 05-46.8S 108-18.8E, 05-46.6S 107-58.3E,&lt;br&gt; 05-58.6S
+        107-58.3E, 05-54.6S 107-42.6E,&lt;br&gt; 05-41.6S 107-47.2E, 05-39.7S 107-40.6E,&lt;br&gt; 05-53.3S 107-35.7E.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 01 SEP 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 363/18 170945Z
+        JUL 18.&lt;br&gt;&lt;br&gt;Date: 171012Z JUL 18&lt;br&gt;Cancel: 01000000 Sep 18"<br /><br />中文<br /> JAVA SEA。结果
+印度尼西亚。结果
+DNC 04。 结果
+1. IN PROGRESS调查操作，直到8月31日点击
+   BY MV / ELSA REGENT拖带五英里长电缆点击
+   在区域受其约束结果
+   05-40.6S 107-04.0E，05-47.9S 107-00.9E，点击
+   06-01.2S 107-33.4E，06-05.1S 107-32.0E，点击
+   06-07.2S 107-39.3E，06-11.7S 107-44.2E，点击
+   06-09.9S 107-49.5E，06-10.7S 107-55.4E，点击
+   06-13.5S 107-56.0E，06-17.7S 108-05.1E，点击
+   06-19.0S 108-08.1E，06-15.9S 108-10.2E，点击
+   06-13.5S 108-08.6E，06-11.8S 108-10.2E，点击
+   06-13.2S 108-14.8E，06-13.7S 108-25.1E，点击
+   06-06.5S 108-25.4E，06-02.6S 108-18.7E，点击
+   05-46.8S 108-18.8E，05-46.6S 107-58.3E，点击
+   05-58.6S 107-58.3E，05-54.6S 107-42.6E，点击
+   05-41.6S 107-47.2E，05-39.7S 107-40.6E，点击
+   05-53.3S 107-35.7E。结果
+   敬而远之REQUESTED。结果
+2.取消此MSG 01 9 18.//搜索结果机关：NAVAREA XI一十八分之三百六十三170945Z JUL 18.搜索结果，日期：171012Z 7月18日，点击取消：01000000 09月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2614/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;JAVA SEA.&lt;br&gt; INDONESIA.&lt;br&gt; DNC 04.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS IN PROGRESS UNTIL 31 AUG&lt;br&gt; BY MV/ ELSA REGENT TOWING FIVE MILE LONG CABLE&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 05-40.6S
+            107-04.0E, 05-47.9S 107-00.9E,&lt;br&gt; 06-01.2S 107-33.4E, 06-05.1S 107-32.0E,&lt;br&gt; 06-07.2S 107-39.3E, 06-11.7S 107-44.2E,&lt;br&gt; 06-09.9S 107-49.5E, 06-10.7S 107-55.4E,&lt;br&gt; 06-13.5S 107-56.0E, 06-17.7S 108-05.1E,&lt;br&gt; 06-19.0S
+            108-08.1E, 06-15.9S 108-10.2E,&lt;br&gt; 06-13.5S 108-08.6E, 06-11.8S 108-10.2E,&lt;br&gt; 06-13.2S 108-14.8E, 06-13.7S 108-25.1E,&lt;br&gt; 06-06.5S 108-25.4E, 06-02.6S 108-18.7E,&lt;br&gt; 05-46.8S 108-18.8E, 05-46.6S 107-58.3E,&lt;br&gt; 05-58.6S
+            107-58.3E, 05-54.6S 107-42.6E,&lt;br&gt; 05-41.6S 107-47.2E, 05-39.7S 107-40.6E,&lt;br&gt; 05-53.3S 107-35.7E.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 01 SEP 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 363/18 170945Z
+            JUL 18.&lt;br&gt;&lt;br&gt;Date: 171012Z JUL 18&lt;br&gt;Cancel: 01000000 Sep 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>107.066667,-5.676666,0 107.015,-5.798333,0 107.556667,-6.02,0 107.533334,-6.085,0 107.655,-6.12,0 107.736667,-6.195,0 107.825,-6.165,0 107.923334,-6.178333,0 107.933334,-6.225,0 108.085,-6.295,0 108.135,-6.316666,0 108.17,-6.265,0
+            108.143334,-6.225,0 108.17,-6.196666,0 108.246667,-6.22,0 108.418334,-6.228333,0 108.423334,-6.108333,0 108.311667,-6.043333,0 108.313334,-5.78,0 107.971667,-5.776666,0 107.971667,-5.976666,0 107.71,-5.91,0 107.786667,-5.693333,0
+            107.676667,-5.661666,0 107.595,-5.888333,0 107.066667,-5.676666,0 107.066667,-5.676666,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2719/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;EASTERN SOUTH PACIFIC.&lt;br&gt; CHILE.&lt;br&gt; DNC 07.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 1300Z TO 2200Z DAILY&lt;br&gt; 30 JUL THRU 09 AUG IN AREA BOUND BY&lt;br&gt; 19-06.00S 070-42.00W, 20-03.00S
+        070-49.00W,&lt;br&gt; 19-29.00S 071-16.25W.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 092300Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XV 104/18 260105Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 260107Z JUL 18&lt;br&gt;Cancel: 09230000 Aug 18"<br /><br />中文<br />南太平洋东部。结果
+智利结果
+DNC 07。 结果
+1.危险操作1300Z TO 2200Z每日点击
+   7月30日THRU 8月9日在区受其约束结果
+   19-06.00S 070-42.00W，20-03.00S 070-49.00W，点击
+   19-29.00S 071-16.25W。结果
+2.取消此MSG 092300Z AUG 18.//搜索结果机关：NAVAREA XV一十八分之一百零四260105Z JUL 18.搜索结果，日期：260107Z 7月18日，点击取消：09230000年08月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2719/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;EASTERN SOUTH PACIFIC.&lt;br&gt; CHILE.&lt;br&gt; DNC 07.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 1300Z TO 2200Z DAILY&lt;br&gt; 30 JUL THRU 09 AUG IN AREA BOUND BY&lt;br&gt; 19-06.00S 070-42.00W, 20-03.00S
+            070-49.00W,&lt;br&gt; 19-29.00S 071-16.25W.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 092300Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XV 104/18 260105Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 260107Z JUL 18&lt;br&gt;Cancel: 09230000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-70.7,-19.1,0 -70.816667,-20.05,0 -71.270834,-19.483333,0 -70.7,-19.1,0 -70.7,-19.1,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2725/18 [2 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;BAY OF BENGAL.&lt;br&gt; INDIA.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0430Z TO 1030Z 30, 31 JUL,&lt;br&gt; 01 AUG IN:&lt;/B&gt;&lt;br&gt; A. AREA BOUND BY 19-14.6N 084-53.7E, &lt;br&gt; 19-07.39N
+        085-35.94E, 18-33.61N 084-53.74E.&lt;B&gt;&lt;br&gt; B. AREA WITHIN 40 MILES OF TRACKLINE JOINING&lt;br&gt; 19-07.39N 085-35.94E AND 18-33.61N 084-53.74E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 011130Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA
+        VIII 509/18 261141Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 261352Z JUL 18&lt;br&gt;Cancel: 01113000 Aug 18"<br /><br />中文<br />孟加拉 BAY。结果
+印度。结果
+DNC 03。 结果
+1.危险操作0430Z TO 1030Z 30 7月31日，结果
+   8月01日IN：结果
+   A.面积受其约束19-14.6N 084-53.7E，点击
+      19-07.39N 085-35.94E，18-33.61N 084-53.74E。结果
+   B.区域内40英里TRACKLINE JOINING结果
+      19-07.39N 085-35.94E AND 18-33.61N 084-53.74E。结果
+2.取消味精011130Z AUG 18.//搜索结果管理局：NAVAREA八十八分之五百零九261141Z JUL 18.搜索结果日期：261352Z 7月18日点击取消：01113000 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2725/18 [2 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;BAY OF BENGAL.&lt;br&gt; INDIA.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 0430Z TO 1030Z 30, 31 JUL,&lt;br&gt; 01 AUG IN:&lt;/B&gt;&lt;br&gt; A. AREA BOUND BY 19-14.6N 084-53.7E, &lt;br&gt; 19-07.39N
+            085-35.94E, 18-33.61N 084-53.74E.&lt;B&gt;&lt;br&gt; B. AREA WITHIN 40 MILES OF TRACKLINE JOINING&lt;br&gt; 19-07.39N 085-35.94E AND 18-33.61N 084-53.74E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 011130Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA
+            VIII 509/18 261141Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 261352Z JUL 18&lt;br&gt;Cancel: 01113000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>85.146669,19.633754,0 85.247548,19.700735,0 85.33001,19.739245,0 85.417075,19.767226,0 85.553028,19.788474,0 85.644973,19.788474,0 85.780926,19.767226,0 85.867991,19.739245,0 85.950453,19.700735,0 86.026902,19.652349,0
+            86.096029,19.594905,0 86.183445,19.493926,0 86.229417,19.418397,0 86.264602,19.337783,0 86.295892,19.21035,0 86.3004,19.079465,0 86.288399,18.992773,0 86.264602,18.908269,0 86.229417,18.827403,0 86.183445,18.751564,0 86.096029,18.650062,0
+            85.323569,18.027485,0 85.206554,17.957857,0 85.077592,17.911396,0 84.941639,17.889906,0 84.849695,17.889906,0 84.758537,17.901396,0 84.626677,17.939687,0 84.505154,18.001851,0 84.398638,18.085473,0 84.311223,18.187313,0 84.246268,18.303428,0
+            84.206268,18.429331,0 84.192762,18.560167,0 84.206268,18.690901,0 84.230065,18.775516,0 84.265251,18.856408,0 84.311223,18.932198,0 84.398638,19.033528,0 85.146669,19.633754,0 85.146669,19.633754,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2738/18 [2 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;PHILIPPINE SEA.&lt;br&gt; TAIWAN.&lt;br&gt; DNC 23.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY EXERCISES:&lt;/B&gt;&lt;br&gt; A. 2300Z TO 0500Z COMMENCING DAILY 31 JUL &lt;br&gt; THRU 02 AUG, 05 THRU 09, 12 THRU 16, 19 THRU
+        23,&lt;br&gt; 26 THRU AUG IN AREA BOUND BY&lt;br&gt; 22-14.53N 121-40.29E, 22-26.53N 122-00.29E,&lt;br&gt; 21-32.53N 122-00.29E, 21-41.53N 121-40.29E.&lt;B&gt;&lt;br&gt; B. 0600Z TO 0900Z DAILY 01 THRU 03, 06 THRU 10,&lt;br&gt; 13 THRU 17, 20 THRU
+        24, AND 27 THRU 31 AUG&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 22-14.53N 121-40.29E, 22-26.53N 122-00.29E,&lt;br&gt; 21-32.53N 122-00.29E, 21-41.53N 121-40.29E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 011000Z SEP 18.//&lt;br&gt;&lt;br&gt;Authority:
+        NAVAREA XI 383/18 271212Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 271443Z JUL 18&lt;br&gt;Cancel: 01100000 Sep 18"<br /><br />中文<br />菲律宾海。结果
+台湾点击
+DNC 23。 结果
+1.射击练习：结果
+   A. 2300Z TO 0500Z开始每日7月31日点击
+      THRU 05年8月2日THRU 09，12 THRU 16,19 THRU 23，结果
+      26 THRU AUG区中的约束结果
+      22-14.53N 121-40.29E，22-26.53N 122-00.29E，点击
+      21-32.53N 122-00.29E，21-41.53N 121-40.29E。结果
+   B. 0600Z TO 0900Z每日01 THRU 03,06 THRU 10，点击
+      13 THRU 17,20 THRU 24和27 THRU 8月31日搜索
+      在区域受其约束结果
+      22-14.53N 121-40.29E，22-26.53N 122-00.29E，点击
+      21-32.53N 122-00.29E，21-41.53N 121-40.29E。结果
+2.取消此MSG 011000Z SEP 18.//搜索结果机关：NAVAREA XI一十八分之三百八十三271212Z JUL 18.搜索结果，日期：271443Z 7月18日，点击取消：01100000 09月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2738/18 [2 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;PHILIPPINE SEA.&lt;br&gt; TAIWAN.&lt;br&gt; DNC 23.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY EXERCISES:&lt;/B&gt;&lt;br&gt; A. 2300Z TO 0500Z COMMENCING DAILY 31 JUL &lt;br&gt; THRU 02 AUG, 05 THRU 09, 12 THRU 16, 19 THRU 23,&lt;br&gt;
+            26 THRU AUG IN AREA BOUND BY&lt;br&gt; 22-14.53N 121-40.29E, 22-26.53N 122-00.29E,&lt;br&gt; 21-32.53N 122-00.29E, 21-41.53N 121-40.29E.&lt;B&gt;&lt;br&gt; B. 0600Z TO 0900Z DAILY 01 THRU 03, 06 THRU 10,&lt;br&gt; 13 THRU 17, 20 THRU 24, AND 27 THRU
+            31 AUG&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 22-14.53N 121-40.29E, 22-26.53N 122-00.29E,&lt;br&gt; 21-32.53N 122-00.29E, 21-41.53N 121-40.29E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 011000Z SEP 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 383/18
+            271212Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 271443Z JUL 18&lt;br&gt;Cancel: 01100000 Sep 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>121.6715,22.242167,0 122.004834,22.442167,0 122.004834,21.542167,0 121.6715,21.692167,0 121.6715,22.242167,0 121.6715,22.242167,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2742/18 [2 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;SOUTH CHINA SEA.&lt;br&gt; TAIWAN STRAIT.&lt;br&gt; TAIWAN.&lt;br&gt; DNC 23.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY EXERCISES 2300Z TO 0900Z COMMENCING&lt;br&gt; DAILY 31 JUL THRU 02 AUG, 05 THRU 09, 12 THRU 16,&lt;br&gt; 19
+        THRU 23 AND 26 THRU 30 AUG&lt;/B&gt;&lt;br&gt; A. EXERCISE AREA BOUNDED BY&lt;br&gt; 22-34N 118-55E, 22-59N 119-39E,&lt;br&gt; 22-16N 119-37E, 22-21N 118-55E.&lt;B&gt;&lt;br&gt; B. DANGEROUS AREA WITHIN TEN MILES OF&lt;br&gt; 22-32N
+        119-18E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311000Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 386/18 271131Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 271517Z JUL 18&lt;br&gt;Cancel: 31100000 Aug 18"<br /><br />中文<br />中国南海。结果
+台湾海峡。结果
+台湾点击
+DNC 23。 结果
+1.重炮锻炼2300Z TO 0900Z开始点击
+   DAILY 7月31日THRU 05年8月2日THRU 09，12 THRU 16，结果
+   19 THRU 23和26 THRU 08月30日结果
+   A.演习区域北临结果
+   22-34N 118-55E，22-59N 119-39E，点击
+   22-16N 119-37E，22-21N 118-55E。结果
+   B.危险区域的十点击英里
+   22-32N 119-18E。结果
+2.取消味精311000Z AUG 18.//搜索结果管理局：NAVAREA十一十八分之三百八十六271131Z JUL 18.搜索结果日期：271517Z 7月18日点击取消：31100000 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2742/18 [2 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;SOUTH CHINA SEA.&lt;br&gt; TAIWAN STRAIT.&lt;br&gt; TAIWAN.&lt;br&gt; DNC 23.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. GUNNERY EXERCISES 2300Z TO 0900Z COMMENCING&lt;br&gt; DAILY 31 JUL THRU 02 AUG, 05 THRU 09, 12 THRU 16,&lt;br&gt; 19 THRU 23
+            AND 26 THRU 30 AUG&lt;/B&gt;&lt;br&gt; A. EXERCISE AREA BOUNDED BY&lt;br&gt; 22-34N 118-55E, 22-59N 119-39E,&lt;br&gt; 22-16N 119-37E, 22-21N 118-55E.&lt;B&gt;&lt;br&gt; B. DANGEROUS AREA WITHIN TEN MILES OF&lt;br&gt; 22-32N
+            119-18E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311000Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA XI 386/18 271131Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 271517Z JUL 18&lt;br&gt;Cancel: 31100000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>119.3,22.700473,0 119.335123,22.697264,0 119.368895,22.687758,0 119.40002,22.67232,0 119.427301,22.651541,0 119.44969,22.626217,0 119.466327,22.597319,0 119.476571,22.565957,0 119.480031,22.533334,0 119.476571,22.500702,0
+            119.466327,22.469318,0 119.44969,22.440387,0 119.427301,22.415024,0 119.40002,22.394206,0 119.368895,22.378735,0 119.335123,22.369207,0 119.3,22.365989,0 119.264878,22.369207,0 119.231106,22.378735,0 119.199981,22.394206,0 119.1727,22.415024,0
+            119.150311,22.440387,0 119.133674,22.469318,0 119.123429,22.500702,0 119.11997,22.533334,0 119.123429,22.565957,0 119.133674,22.597319,0 119.150311,22.626217,0 119.1727,22.651541,0 119.199981,22.67232,0 119.231106,22.687758,0 119.264878,22.697264,0
+            119.3,22.700473,0 119.3,22.700473,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2746/18 [6 of 6][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;BAY OF BENGAL.&lt;br&gt; BANGLADESH.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 2200Z TO 1700Z COMMENCING DAILY&lt;br&gt; 31 JUL THRU 30 AUG IN:&lt;/B&gt;&lt;br&gt; A. AREA BOUND BY &lt;br&gt;
+        21-20.83N 090-34.00E, 21-41.00N 091-14.00E, &lt;br&gt; 21-20.83N 091-28.00E, 21-00.00N 090-47.83E.&lt;br&gt; B. AREA BOUND BY &lt;br&gt; 20-46.00N 090-00.00E, 20-58.00N 090-17.00E, &lt;br&gt; 20-40.00N 090-38.00E, 20-28.00N 090-22.00E.&lt;br&gt; C.
+        AREA BOUND BY &lt;br&gt; 20-07.00N 090-52.00E, 20-22.00N 091-06.00E, &lt;br&gt; 20-00.00N 091-36.00E, 19-44.00N 091-21.00E.&lt;br&gt; D. AREA BOUND BY&lt;br&gt; 20-22.00N 091-06.00E, 20-46.50N 091-31.00E, &lt;br&gt; 20-24.00N 091-59.00E, 20-00.00N
+        091-36.00E.&lt;br&gt; E. AREA BOUND BY&lt;br&gt; 21-18.00N 089-31.00E, 21-18.00N 089-50.00E, &lt;br&gt; 21-04.00N 089-54.00E, 21-04.00N 089-34.00E.&lt;B&gt;&lt;br&gt; F. AREA BETWEEN&lt;br&gt; 20-58.00N 20-34.00N AND 089-54.00E
+        089-34.00E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311800Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA VIII 512/18 271002Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 272013Z JUL 18&lt;br&gt;Cancel: 31180000 Aug 18"<br /><br />中文<br />孟加拉 BAY。结果
+孟加拉国。结果
+DNC 03。 结果
+1.危险操作2200Z TO 1700Z开始每日点击
+   7月31日THRU 30 8 IN：结果
+   A.面积受其约束结果
+      21-20.83N 090-34.00E，21-41.00N 091-14.00E，点击
+      21-20.83N 091-28.00E，21-00.00N 090-47.83E。结果
+   B.区域受其约束结果
+      20-46.00N 090-00.00E，20-58.00N 090-17.00E，点击
+      20-40.00N 090-38.00E，20-28.00N 090-22.00E。结果
+   C.区域受其约束结果
+      20-07.00N 090-52.00E，20-22.00N 091-06.00E，点击
+      20-00.00N 091-36.00E，19-44.00N 091-21.00E。结果
+   D.区域受其约束结果
+      20-22.00N 091-06.00E，20-46.50N 091-31.00E，点击
+      20-24.00N 091-59.00E，20-00.00N 091-36.00E。结果
+   E.区域受其约束结果
+      21-18.00N 089-31.00E，21-18.00N 089-50.00E，点击
+      21-04.00N 089-54.00E，21-04.00N 089-34.00E。结果
+   F.区近点击
+      20-58.00N 20-34.00N AND 089-54.00E 089-34.00E。结果
+2.取消味精311800Z AUG 18.//搜索结果管理局：NAVAREA八十八分之五百十二271002Z JUL 18.搜索结果日期：272013Z 7月18日点击取消：31180000 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2746/18 [6 of 6][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;BAY OF BENGAL.&lt;br&gt; BANGLADESH.&lt;br&gt; DNC 03.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS 2200Z TO 1700Z COMMENCING DAILY&lt;br&gt; 31 JUL THRU 30 AUG IN:&lt;/B&gt;&lt;br&gt; A. AREA BOUND BY &lt;br&gt; 21-20.83N
+            090-34.00E, 21-41.00N 091-14.00E, &lt;br&gt; 21-20.83N 091-28.00E, 21-00.00N 090-47.83E.&lt;br&gt; B. AREA BOUND BY &lt;br&gt; 20-46.00N 090-00.00E, 20-58.00N 090-17.00E, &lt;br&gt; 20-40.00N 090-38.00E, 20-28.00N 090-22.00E.&lt;br&gt; C. AREA BOUND
+            BY &lt;br&gt; 20-07.00N 090-52.00E, 20-22.00N 091-06.00E, &lt;br&gt; 20-00.00N 091-36.00E, 19-44.00N 091-21.00E.&lt;br&gt; D. AREA BOUND BY&lt;br&gt; 20-22.00N 091-06.00E, 20-46.50N 091-31.00E, &lt;br&gt; 20-24.00N 091-59.00E, 20-00.00N
+            091-36.00E.&lt;br&gt; E. AREA BOUND BY&lt;br&gt; 21-18.00N 089-31.00E, 21-18.00N 089-50.00E, &lt;br&gt; 21-04.00N 089-54.00E, 21-04.00N 089-34.00E.&lt;B&gt;&lt;br&gt; F. AREA BETWEEN&lt;br&gt; 20-58.00N 20-34.00N AND 089-54.00E
+            089-34.00E.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 311800Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA VIII 512/18 271002Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 272013Z JUL 18&lt;br&gt;Cancel: 31180000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>89.566667,20.966667,0 89.9,20.966667,0 89.9,20.566667,0 89.566667,20.566667,0 89.566667,20.966667,0 89.566667,20.966667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>HYDROPAC 2770/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;PERSIAN GULF.&lt;br&gt; QATAR.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS IN PROGRESS UNTIL 30 SEP&lt;br&gt; BY M/V FUGRO PROTEUS IN AREA WITHIN 15 MILES OF&lt;br&gt; 25-59.49N 052-02.48E.&lt;br&gt; WIDE
+        BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 01 OCT 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA IX 176/18 301500Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 301534Z JUL 18&lt;br&gt;Cancel: 01000000 Oct 18"<br /><br />中文<br />波斯湾。结果
+卡塔尔结果
+DNC 10。 结果
+1. IN PROGRESS调查操作，直到9月30日，点击
+   BY M / V FUGRO PROTEUS区内部点击15英里
+   25-59.49N 052-02.48E。结果
+   敬而远之REQUESTED。结果
+2.取消此MSG 10月01日18.//搜索结果机关：NAVAREA IX一十八分之一百七十六301500Z JUL 18.搜索结果，日期：301534Z 7月18日，点击取消：01000000年10月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>HYDROPAC 2770/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;PERSIAN GULF.&lt;br&gt; QATAR.&lt;br&gt; DNC 10.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. SURVEY OPERATIONS IN PROGRESS UNTIL 30 SEP&lt;br&gt; BY M/V FUGRO PROTEUS IN AREA WITHIN 15 MILES OF&lt;br&gt; 25-59.49N 052-02.48E.&lt;br&gt; WIDE BERTH
+            REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 01 OCT 18.//&lt;br&gt;&lt;br&gt;Authority: NAVAREA IX 176/18 301500Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 301534Z JUL 18&lt;br&gt;Cancel: 01000000 Oct 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>52.041334,26.241979,0 52.095462,26.237171,0 52.147511,26.222931,0 52.195479,26.199804,0 52.237523,26.168672,0 52.272028,26.130726,0 52.297667,26.087418,0 52.313456,26.040409,0 52.318787,25.9915,0 52.313456,25.942571,0
+            52.297667,25.895503,0 52.272028,25.852108,0 52.237523,25.814059,0 52.195479,25.782823,0 52.147511,25.759608,0 52.095462,25.745309,0 52.041334,25.740481,0 51.987205,25.745309,0 51.935157,25.759608,0 51.887189,25.782823,0 51.845145,25.814059,0
+            51.81064,25.852108,0 51.785,25.895503,0 51.769212,25.942571,0 51.76388,25.9915,0 51.769212,26.040409,0 51.785,26.087418,0 51.81064,26.130726,0 51.845145,26.168672,0 51.887189,26.199804,0 51.935157,26.222931,0 51.987205,26.237171,0
+            52.041334,26.241979,0 52.041334,26.241979,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>NAVAREA IV 246/18 [1 of 1][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;WESTERN NORTH ATLANTIC.&lt;br&gt; GUYANA.&lt;br&gt; UNDERWATER OPERATIONS 30 MAR UNTIL FURTHER NOTICE &lt;br&gt; BY M/V LIAM J MCALL IN AREA BOUND BY&lt;br&gt; 08-37.80N 057-45.97W, 08-37.80N 057-45.45W, &lt;br&gt; 08-37.26N
+        057-45.45W, 08-37.26N 057-46.00W. &lt;br&gt; WIDE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: GUYANA 5/18 231928Z MAR 18.&lt;br&gt;&lt;br&gt;Date: 231946Z MAR 18"<br /><br />中文<br />北大西洋西部。结果
+圭亚那。结果
+水下作业03月30日，直至另行通知结果
+BY M / V利亚姆ĴMCALL区中的约束结果
+08-37.80N 057-45.97W，08-37.80N 057-45.45W，点击
+08-37.26N 057-45.45W，08-37.26N 057-46.00W。点击
+敬而远之REQUESTED .//搜索结果机关：圭亚那5/18 231928Z MAR 18.搜索结果，日期：231946Z年03月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>NAVAREA IV 246/18 [1 of 1][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;WESTERN NORTH ATLANTIC.&lt;br&gt; GUYANA.&lt;br&gt; UNDERWATER OPERATIONS 30 MAR UNTIL FURTHER NOTICE &lt;br&gt; BY M/V LIAM J MCALL IN AREA BOUND BY&lt;br&gt; 08-37.80N 057-45.97W, 08-37.80N 057-45.45W, &lt;br&gt; 08-37.26N
+            057-45.45W, 08-37.26N 057-46.00W. &lt;br&gt; WIDE BERTH REQUESTED.//&lt;/B&gt;&lt;br&gt;&lt;br&gt;Authority: GUYANA 5/18 231928Z MAR 18.&lt;br&gt;&lt;br&gt;Date: 231946Z MAR 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-57.766167,8.63,0 -57.7575,8.63,0 -57.7575,8.621,0 -57.766667,8.621,0 -57.766167,8.63,0 -57.766167,8.63,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>NAVAREA IV 593/18 [2 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;WESTERN NORTH ATLANTIC.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. CABLE OPERATIONS BY M/V REBECCA:&lt;/B&gt;&lt;br&gt; A. 261600Z JUL THRU 072359Z AUG &lt;br&gt; ALONG TRACKLINE BETWEEN&lt;br&gt; 44-57.17N 041-50.81W AND 43-13.03N
+        044-49.33W.&lt;B&gt;&lt;br&gt; B. 08 THRU 22 AUG ALONG TRACKLINE BETWEEN&lt;br&gt; 42-59.02N 045-34.48W AND 41-10.79N 050-39.87W.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 23 AUG 18.//&lt;br&gt;&lt;br&gt;Authority: M/V
+        REBECCA 261107A JUL 18.&lt;br&gt;&lt;br&gt;Date: 261137Z JUL 18&lt;br&gt;Cancel: 23000000 Aug 18"<br /><br />中文<br />北大西洋西部。 结果
+1.缆作业BY M / V丽蓓嘉：结果
+   A. 261600Z JUL THRU 072359Z AUG结果
+      之间沿着结果TRACKLINE
+      44-57.17N 041-50.81W AND 43-13.03N 044-49.33W。结果
+   B. 08 THRU 8月22日之间沿着点击TRACKLINE
+      42-59.02N 045-34.48W和41-10.79N 050-39.87W。结果
+   敬而远之REQUESTED。结果
+2.取消此MSG八月23 18.//搜索结果管理局：M / V丽蓓嘉261107A JUL 18.搜索结果，日期：261137Z 7月18日，点击取消：23000000年08月18<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>NAVAREA IV 593/18 [2 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;WESTERN NORTH ATLANTIC.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. CABLE OPERATIONS BY M/V REBECCA:&lt;/B&gt;&lt;br&gt; A. 261600Z JUL THRU 072359Z AUG &lt;br&gt; ALONG TRACKLINE BETWEEN&lt;br&gt; 44-57.17N 041-50.81W AND 43-13.03N
+            044-49.33W.&lt;B&gt;&lt;br&gt; B. 08 THRU 22 AUG ALONG TRACKLINE BETWEEN&lt;br&gt; 42-59.02N 045-34.48W AND 41-10.79N 050-39.87W.&lt;br&gt; WIDE BERTH REQUESTED.&lt;/B&gt;&lt;br&gt; 2. CANCEL THIS MSG 23 AUG 18.//&lt;br&gt;&lt;br&gt;Authority: M/V
+            REBECCA 261107A JUL 18.&lt;br&gt;&lt;br&gt;Date: 261137Z JUL 18&lt;br&gt;Cancel: 23000000 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-45.574667,42.983667,0 -50.6645,41.179834,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>NAVAREA IV 605/18 [1 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;WESTERN NORTH ATLANTIC. &lt;br&gt; FLORIDA.&lt;/B&gt; &lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING&lt;br&gt; 040514Z TO 040750Z AUG, &lt;br&gt; ALTERNATE 050514Z TO 050750Z AUG:&lt;/B&gt; &lt;B&gt;&lt;br&gt; A.
+        IN AREA BOUND BY &lt;br&gt; 28-38N 080-37W, 28-37N 079-57W, &lt;br&gt; 28-30N 079-57W, 28-30N 080-33W, &lt;br&gt; 28-32N 080-35W, 28-35N 080-37W.&lt;/B&gt; &lt;br&gt; B. IN AREA BETWEEN &lt;br&gt; 28-42N 27-58N AND 075-11W 071-51W. &lt;br&gt; 2.
+        CANCEL THIS MSG 050850Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority:EASTERN RANGE 251937Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 300848Z JUL 18&lt;br&gt;Cancel: 05085000 Aug 18"<br /><br />中文<br />北大西洋西部。点击
+佛罗里达州。 结果
+1.危险操作，管火箭发射结果
+   040514Z TO 040750Z AUG，点击
+   交替050514Z TO 050750Z AUG： 结果
+   答：在区域受其约束结果
+      28-38N 080-37W，28-37N 079-57W，点击
+      28-30N 079-57W，28-30N 080-33W，点击
+      28-32N 080-35W，28-35N 080-37W。结果
+   B.在区域之间的结果
+      28-42N 27-58N和075-11W 071-51W。点击
+2.取消味精050850Z AUG 18.//搜索结果管理局：EASTERN RANGE 251937Z JUL 18.搜索结果日期：300848Z 7月18日点击取消：05085000 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>NAVAREA IV 605/18 [1 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;WESTERN NORTH ATLANTIC. &lt;br&gt; FLORIDA.&lt;/B&gt; &lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING&lt;br&gt; 040514Z TO 040750Z AUG, &lt;br&gt; ALTERNATE 050514Z TO 050750Z AUG:&lt;/B&gt; &lt;B&gt;&lt;br&gt; A. IN
+            AREA BOUND BY &lt;br&gt; 28-38N 080-37W, 28-37N 079-57W, &lt;br&gt; 28-30N 079-57W, 28-30N 080-33W, &lt;br&gt; 28-32N 080-35W, 28-35N 080-37W.&lt;/B&gt; &lt;br&gt; B. IN AREA BETWEEN &lt;br&gt; 28-42N 27-58N AND 075-11W 071-51W. &lt;br&gt; 2. CANCEL
+            THIS MSG 050850Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority:EASTERN RANGE 251937Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 300848Z JUL 18&lt;br&gt;Cancel: 05085000 Aug 18 &lt;B&gt;西北大西洋。&lt;br&gt;佛罗里达。&lt;/ B&gt; &lt;B&gt;
+            &lt;br&gt;1.危险的操作，火箭发射&lt;br&gt;040514Z至040750Z AUG，&lt;br&gt;ALTERNATE 050514Z TO 050750Z AUG：&lt;/ B&gt; &lt;B&gt; &lt;br&gt;A.受区域限制 28-38N 080-37W，28-37N 079-57W，&lt;br&gt;28-30N 079-57W，28-30N 080-33W，&lt;br&gt;</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-80.616667,28.633334,0 -79.95,28.616667,0 -79.95,28.5,0 -80.55,28.5,0 -80.583334,28.533334,0 -80.616667,28.583334,0 -80.616667,28.633334,0 -80.616667,28.633334,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>NAVAREA IV 607/18 [5 of 5][[WWNWSFOLDER]]</name>
+      <description>1. NORTH AMERICAN ICE SERVICE (NAIS)&lt;br&gt; ICEBERG BULLETIN 310001Z JUL.&lt;br&gt; 2. ICEBERG LIMIT ALONG TRACKLINE JOINING &lt;br&gt; 47-30N 052-39W, 47-00N 047-00W, 47-45N 046-15W,&lt;br&gt; 51-15N 047-15W, 57-00N
+        052-00W.&lt;br&gt; 3. ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING&lt;br&gt; 65-00N 028-00W, 63-00N 038-00W, 57-00N 038-00W, &lt;br&gt; 57-00N 052-00W.&lt;br&gt; 4. WESTERN ICEBERG LIMIT ALONG TRACKLINE BETWEEN&lt;br&gt; 51-14N 058-38W AND 50-35N
+        057-21W.&lt;br&gt; 5. RADAR TARGET OUTSIDE ICEBERG LIMIT:&lt;br&gt; 48-54N 044-44W.&lt;B&gt;&lt;br&gt; 6. SEA ICE LIMIT ALONG TRACKLINE JOINING&lt;br&gt; 59-30N 063-45W, 59-30N 061-50W, 58-50N 060-20W,&lt;br&gt; 59-20N 059-05W, 61-55N 061-50W, 64-00N
+        057-55W.&lt;/B&gt;&lt;br&gt; 7. MOST RECENT RECONNAISSANCE:&lt;br&gt; INTERIOR GENERAL FLIGHT 29 JUL 18.&lt;br&gt; 8. REPORT POSITION AND TIME OF ANY ICEBERGS SEA &lt;br&gt; ICE OR STATIONARY RADAR TARGETS THAT MAY LIKELY &lt;br&gt; BE ICE TO THE
+        NEAREST CANADIAN COAST GUARD MARINE &lt;br&gt; COMMUNICATIONS AND TRAFFIC SERVICE STATION OR&lt;br&gt; USING INMARSAT CODE 42.&lt;br&gt; 9. CANCEL THIS MSG 010001Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAIS 301831Z JUL 18.&lt;br&gt;&lt;br&gt;Date:
+        301855Z JUL 18&lt;br&gt;Cancel: 01000100 Aug 18"<br /><br />中文<br />1.北美冰服务机构（NAIS）点击
+   ICEBERG公告310001Z七月点击
+2. ICEBERG LIMIT ALONG TRACKLINE JOINING结果
+   47-30N 052-39W，47-00N 047-00W，47-45N 046-15W，点击
+   51-15N 047-15W，57-00N 052-00W。结果
+3，预计ICEBERG LIMIT ALONG TRACKLINE JOINING结果
+   65-00N 028-00W，63-00N 038-00W，57-00N 038-00W，点击
+   57-00N 052-00W。结果
+4. WESTERN ICEBERG LIMIT之间沿着点击TRACKLINE
+   51-14N 058-38W和50-35N 057-21W。结果
+5.雷达目标以外ICEBERG LIMIT：点击
+   48-54N 044-44W。结果
+6.海冰LIMIT ALONG TRACKLINE JOINING结果
+   59-30N 063-45W，59-30N 061-50W，58-50N 060-20W，点击
+   59-20N 059-05W，61-55N 061-50W，64-00N 057-55W。结果
+7.最近侦察：点击
+   室内一般飞行7月29日18点击
+8.报告位置和时间的任何冰山SEA结果
+   ICE式或固定式雷达目标可能LIKELY结果
+   被冰到最近的加拿大海岸警卫队海事结果
+   通信和交通维修站或点击
+   使用INMARSAT CODE 42.点击
+9.取消味精010001Z AUG 18.//搜索结果管理局：NAIS 301831Z JUL 18.搜索结果日期：301855Z 7月18日点击取消：01000100 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>NAVAREA IV 607/18 [5 of 5][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>1. NORTH AMERICAN ICE SERVICE (NAIS)&lt;br&gt; ICEBERG BULLETIN 310001Z JUL.&lt;br&gt; 2. ICEBERG LIMIT ALONG TRACKLINE JOINING &lt;br&gt; 47-30N 052-39W, 47-00N 047-00W, 47-45N 046-15W,&lt;br&gt; 51-15N 047-15W, 57-00N 052-00W.&lt;br&gt; 3.
+            ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING&lt;br&gt; 65-00N 028-00W, 63-00N 038-00W, 57-00N 038-00W, &lt;br&gt; 57-00N 052-00W.&lt;br&gt; 4. WESTERN ICEBERG LIMIT ALONG TRACKLINE BETWEEN&lt;br&gt; 51-14N 058-38W AND 50-35N 057-21W.&lt;br&gt; 5.
+            RADAR TARGET OUTSIDE ICEBERG LIMIT:&lt;br&gt; 48-54N 044-44W.&lt;B&gt;&lt;br&gt; 6. SEA ICE LIMIT ALONG TRACKLINE JOINING&lt;br&gt; 59-30N 063-45W, 59-30N 061-50W, 58-50N 060-20W,&lt;br&gt; 59-20N 059-05W, 61-55N 061-50W, 64-00N
+            057-55W.&lt;/B&gt;&lt;br&gt; 7. MOST RECENT RECONNAISSANCE:&lt;br&gt; INTERIOR GENERAL FLIGHT 29 JUL 18.&lt;br&gt; 8. REPORT POSITION AND TIME OF ANY ICEBERGS SEA &lt;br&gt; ICE OR STATIONARY RADAR TARGETS THAT MAY LIKELY &lt;br&gt; BE ICE TO THE
+            NEAREST CANADIAN COAST GUARD MARINE &lt;br&gt; COMMUNICATIONS AND TRAFFIC SERVICE STATION OR&lt;br&gt; USING INMARSAT CODE 42.&lt;br&gt; 9. CANCEL THIS MSG 010001Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: NAIS 301831Z JUL 18.&lt;br&gt;&lt;br&gt;Date:
+            301855Z JUL 18&lt;br&gt;Cancel: 01000100 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-63.75,59.5,0 -61.833334,59.5,0 -60.333334,58.833334,0 -59.083334,59.333334,0 -61.833334,61.916667,0 -57.916667,64,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>NAVAREA XII 300/18 [1 of 2][[WWNWSFOLDER]]</name>
+      <description>&lt;B&gt;EASTERN NORTH PACIFIC.&lt;br&gt; CALIFORNIA.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS:&lt;/B&gt;&lt;B&gt;&lt;br&gt; A. 300701Z JUL TO 060659Z AUG IN AREA BOUND BY&lt;br&gt; 33-08-04N 118-46-02W, 33-05-37N
+        118-43-34W,&lt;br&gt; 32-58-53N 118-43-31W, 32-47-38N 118-32-19W,&lt;br&gt; 32-36-55N 118-44-54W, 32-36-55N 118-56-57W,&lt;br&gt; 32-54-18N 119-13-29W, 33-08-04N 118-55-31W.&lt;/B&gt;&lt;br&gt; B. 301500Z TO 310900Z, 311400Z JUL TO 010900Z
+        AUG,&lt;br&gt; 011400Z TO 020900Z, 021400Z TO 030900Z,&lt;br&gt; 040200Z TO 040900Z, 050200Z TO 050900Z AUG&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 32-55-00N 118-25-00W, 32-55-00N 118-15-00W,&lt;br&gt; 32-40-00N 118-15-00W, 32-40-00N
+        118-35-00W,&lt;br&gt; 32-45-00N 118-35-00W.&lt;br&gt; 2. CANCEL THIS MSG 060759Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: FACSFAC SAN DIEGO 262038Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 262117Z JUL 18&lt;br&gt;Cancel: 06075900 Aug 18"<br /><br />中文<br />东北太平洋。结果
+CALIFORNIA。 结果
+1.危险操作： 结果
+   A. 300701Z JUL TO 060659Z AUG区中的约束结果
+      33-08-04N 118-46-02W，33-05-37N 118-43-34W，点击
+      32-58-53N 118-43-31W，32-47-38N 118-32-19W，点击
+      32-36-55N 118-44-54W，32-36-55N 118-56-57W，点击
+      32-54-18N 119-13-29W，33-08-04N 118-55-31W。结果
+   B. 301500Z TO 310900Z，311400Z JUL TO 010900Z AUG，点击
+      011400Z TO 020900Z，021400Z TO 030900Z，点击
+      040200Z TO 040900Z，050200Z TO 050900Z AUG结果
+      在区域受其约束结果
+      32-55-00N 118-25-00W，32-55-00N 118-15-00W，点击
+      32-40-00N 118-15-00W，32-40-00N 118-35-00W，点击
+      32-45-00N 118-35-00W。结果
+2.取消味精060759Z AUG 18.//搜索结果管理局：FACSFAC圣迭戈262038Z JUL 18.搜索结果日期：262117Z 7月18日点击取消：06075900 08月18日<br /><br /><div style='margin:0 auto; width:303px'><img src='http://www.p1t.co.uk/tactique/media/logos.png' /></div>"</description>
+      <ExtendedData>
+        <Data name="name">
+          <value>NAVAREA XII 300/18 [1 of 2][[WWNWSFOLDER]]</value>
+        </Data>
+        <Data name="styleUrl">
+          <value>#NavWarnL</value>
+        </Data>
+        <Data name="styleHash">
+          <value>5c7030c9</value>
+        </Data>
+        <Data name="styleMapHash">
+          <value>[object Object]</value>
+        </Data>
+        <Data name="icon">
+          <value>TriS4.png</value>
+        </Data>
+        <Data name="description">
+          <value>&lt;B&gt;EASTERN NORTH PACIFIC.&lt;br&gt; CALIFORNIA.&lt;/B&gt;&lt;B&gt;&lt;br&gt; 1. HAZARDOUS OPERATIONS:&lt;/B&gt;&lt;B&gt;&lt;br&gt; A. 300701Z JUL TO 060659Z AUG IN AREA BOUND BY&lt;br&gt; 33-08-04N 118-46-02W, 33-05-37N
+            118-43-34W,&lt;br&gt; 32-58-53N 118-43-31W, 32-47-38N 118-32-19W,&lt;br&gt; 32-36-55N 118-44-54W, 32-36-55N 118-56-57W,&lt;br&gt; 32-54-18N 119-13-29W, 33-08-04N 118-55-31W.&lt;/B&gt;&lt;br&gt; B. 301500Z TO 310900Z, 311400Z JUL TO 010900Z
+            AUG,&lt;br&gt; 011400Z TO 020900Z, 021400Z TO 030900Z,&lt;br&gt; 040200Z TO 040900Z, 050200Z TO 050900Z AUG&lt;br&gt; IN AREA BOUND BY&lt;br&gt; 32-55-00N 118-25-00W, 32-55-00N 118-15-00W,&lt;br&gt; 32-40-00N 118-15-00W, 32-40-00N
+            118-35-00W,&lt;br&gt; 32-45-00N 118-35-00W.&lt;br&gt; 2. CANCEL THIS MSG 060759Z AUG 18.//&lt;br&gt;&lt;br&gt;Authority: FACSFAC SAN DIEGO 262038Z JUL 18.&lt;br&gt;&lt;br&gt;Date: 262117Z JUL 18&lt;br&gt;Cancel: 06075900 Aug 18</value>
+        </Data>
+        <Data name="stroke">
+          <value>#ff0000</value>
+        </Data>
+        <Data name="stroke-opacity">
+          <value>1</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString>
+          <coordinates>-118.767223,33.134445,0 -118.726112,33.093611,0 -118.725278,32.981389,0 -118.538612,32.793889,0 -118.748334,32.615278,0 -118.949167,32.615278,0 -119.224723,32.905,0 -118.925278,33.134445,0 -118.767223,33.134445,0 -118.767223,33.134445,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
