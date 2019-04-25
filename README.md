@@ -21,4 +21,4 @@ John will perform exploratory analytics on the dataset.
   - For full dataset and each class, each authorities, charts, regions
 
 
-Look for NAVAREA shapefiles http://www.marineregions.org/downloads.php
+Look for NAVAREA shapefiles (IHO SEA AREAS - Version 3) http://www.marineregions.org/downloads.php
